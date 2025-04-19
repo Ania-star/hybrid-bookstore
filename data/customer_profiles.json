@@ -1,0 +1,220 @@
+[
+  {
+    "user_id": 1,
+    "preferred_categories": [
+      "Business",
+      "Music",
+      "Poetry"
+    ],
+    "avg_rating_given": 3.0,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -108.1231,
+        45.9547
+      ]
+    },
+    "address": {
+      "street": "964 Main St",
+      "city": "Yellowstone",
+      "state": "MT",
+      "zip": "59006",
+      "country": "USA"
+    }
+  },
+  {
+    "user_id": 2,
+    "preferred_categories": [
+      "Business"
+    ],
+    "avg_rating_given": 3.5,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -93.8881,
+        32.3161
+      ]
+    },
+    "address": {
+      "street": "494 Main St",
+      "city": "Caddo Parish",
+      "state": "LA",
+      "zip": "71047",
+      "country": "USA"
+    }
+  },
+  {
+    "user_id": 3,
+    "preferred_categories": [
+      "Fiction"
+    ],
+    "avg_rating_given": 3.0,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -80.7101,
+        36.3698
+      ]
+    },
+    "address": {
+      "street": "876 Main St",
+      "city": "Surry",
+      "state": "NC",
+      "zip": "27017",
+      "country": "USA"
+    }
+  },
+  {
+    "user_id": 4,
+    "preferred_categories": [
+      "Poetry"
+    ],
+    "avg_rating_given": 1.0,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -90.4835,
+        38.2489
+      ]
+    },
+    "address": {
+      "street": "530 Main St",
+      "city": "Jefferson",
+      "state": "MO",
+      "zip": "63065",
+      "country": "USA"
+    }
+  },
+  {
+    "user_id": 5,
+    "preferred_categories": [
+      "Sequential Art",
+      "Young Adult",
+      "Add a comment"
+    ],
+    "avg_rating_given": 2.5,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -96.1044,
+        41.0425
+      ]
+    },
+    "address": {
+      "street": "141 Main St",
+      "city": "Cass",
+      "state": "NE",
+      "zip": "68016",
+      "country": "USA"
+    }
+  },
+  {
+    "user_id": 6,
+    "preferred_categories": [
+      "Poetry",
+      "Music"
+    ],
+    "avg_rating_given": 2.7,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -82.6271,
+        37.5741
+      ]
+    },
+    "address": {
+      "street": "365 Main St",
+      "city": "Floyd",
+      "state": "KY",
+      "zip": "41659",
+      "country": "USA"
+    }
+  },
+  {
+    "user_id": 7,
+    "preferred_categories": [
+      "Fiction"
+    ],
+    "avg_rating_given": 1.0,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -82.6435,
+        27.7391
+      ]
+    },
+    "address": {
+      "street": "623 Main St",
+      "city": "Pinellas",
+      "state": "FL",
+      "zip": "33705",
+      "country": "USA"
+    }
+  },
+  {
+    "user_id": 8,
+    "preferred_categories": [
+      "Poetry",
+      "Historical Fiction",
+      "Mystery"
+    ],
+    "avg_rating_given": 1.8,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -111.5436,
+        45.8811
+      ]
+    },
+    "address": {
+      "street": "597 Main St",
+      "city": "Gallatin",
+      "state": "MT",
+      "zip": "59752",
+      "country": "USA"
+    }
+  },
+  {
+    "user_id": 9,
+    "preferred_categories": [
+      "Spirituality"
+    ],
+    "avg_rating_given": 5.0,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -88.5123,
+        36.2931
+      ]
+    },
+    "address": {
+      "street": "514 Main St",
+      "city": "Henry",
+      "state": "TN",
+      "zip": "38223",
+      "country": "USA"
+    }
+  },
+  {
+    "user_id": 10,
+    "preferred_categories": [
+      "Mystery",
+      "Food and Drink"
+    ],
+    "avg_rating_given": 5.0,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -156.9275,
+        64.7333
+      ]
+    },
+    "address": {
+      "street": "902 Main St",
+      "city": "Yukon-Koyukuk (CA)",
+      "state": "AK",
+      "zip": "99741",
+      "country": "USA"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "user_id": 1,
+    "recommended_books": [
+      "BKS-000587",
+      "BKS-000170",
+      "BKS-000177"
+    ]
+  },
+  {
+    "user_id": 2,
+    "recommended_books": [
+      "BKS-000395"
+    ]
+  },
+  {
+    "user_id": 3,
+    "recommended_books": [
+      "BKS-000131"
+    ]
+  },
+  {
+    "user_id": 4,
+    "recommended_books": [
+      "BKS-000270"
+    ]
+  },
+  {
+    "user_id": 5,
+    "recommended_books": [
+      "BKS-000254",
+      "BKS-000114"
+    ]
+  },
+  {
+    "user_id": 6,
+    "recommended_books": [
+      "BKS-000664",
+      "BKS-000527"
+    ]
+  },
+  {
+    "user_id": 7,
+    "recommended_books": [
+      "BKS-000281"
+    ]
+  },
+  {
+    "user_id": 8,
+    "recommended_books": [
+      "BKS-000377",
+      "BKS-000904",
+      "BKS-000910"
+    ]
+  },
+  {
+    "user_id": 10,
+    "recommended_books": [
+      "BKS-000399"
+    ]
+  }
+]

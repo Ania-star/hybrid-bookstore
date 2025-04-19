@@ -1,0 +1,1001 @@
+book_id,title,category_id,rating,price,status,quantity
+BKS-000001,A Light in the Attic,CAT-0001,3,51.77,In stock,22
+BKS-000002,Tipping the Velvet,CAT-0002,1,53.74,In stock,20
+BKS-000003,Soumission,CAT-0003,1,50.1,In stock,20
+BKS-000004,Sharp Objects,CAT-0004,4,47.82,In stock,20
+BKS-000005,Sapiens: A Brief History of Humankind,CAT-0005,5,54.23,In stock,20
+BKS-000006,The Requiem Red,CAT-0006,1,22.65,In stock,19
+BKS-000007,The Dirty Little Secrets of Getting Your Dream Job,CAT-0007,4,33.34,In stock,19
+BKS-000008,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",CAT-0008,3,17.93,In stock,19
+BKS-000009,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,CAT-0008,4,22.6,In stock,19
+BKS-000010,The Black Maria,CAT-0001,1,52.15,In stock,19
+BKS-000011,"Starving Hearts (Triangular Trade Trilogy, #1)",CAT-0008,2,13.99,In stock,19
+BKS-000012,Shakespeare's Sonnets,CAT-0001,4,20.66,In stock,19
+BKS-000013,Set Me Free,CAT-0006,5,17.46,In stock,19
+BKS-000014,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),CAT-0009,5,52.29,In stock,19
+BKS-000015,Rip it Up and Start Again,CAT-0010,5,35.02,In stock,19
+BKS-000016,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",CAT-0010,3,57.25,In stock,19
+BKS-000017,Olio,CAT-0001,1,23.88,In stock,19
+BKS-000018,Mesaerion: The Best Science Fiction Stories 1800-1849,CAT-0011,1,37.59,In stock,19
+BKS-000019,Libertarianism for Beginners,CAT-0012,2,51.33,In stock,19
+BKS-000020,It's Only the Himalayas,CAT-0013,2,45.17,In stock,19
+BKS-000021,In Her Wake,CAT-0014,1,12.84,In stock,19
+BKS-000022,How Music Works,CAT-0010,2,37.32,In stock,19
+BKS-000023,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",CAT-0015,3,30.52,In stock,19
+BKS-000024,Chase Me (Paris Nights #2),CAT-0016,5,25.27,In stock,19
+BKS-000025,Black Dust,CAT-0016,5,34.53,In stock,19
+BKS-000026,Birdsong: A Story in Pictures,CAT-0017,3,54.64,In stock,19
+BKS-000027,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,CAT-0008,3,22.5,In stock,19
+BKS-000028,Aladdin and His Wonderful Lamp,CAT-0008,3,53.13,In stock,19
+BKS-000029,Worlds Elsewhere: Journeys Around Shakespeareâs Globe,CAT-0018,5,40.3,In stock,18
+BKS-000030,Wall and Piece,CAT-0019,4,44.18,In stock,18
+BKS-000031,The Four Agreements: A Practical Guide to Personal Freedom,CAT-0020,5,17.66,In stock,18
+BKS-000032,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,CAT-0018,3,31.05,In stock,18
+BKS-000033,The Elephant Tree,CAT-0014,5,23.82,In stock,18
+BKS-000034,The Bear and the Piano,CAT-0017,1,36.89,In stock,18
+BKS-000035,Sophie's World,CAT-0021,5,15.94,In stock,18
+BKS-000036,Penny Maybe,CAT-0008,3,33.29,In stock,18
+BKS-000037,Maude (1883-1993):She Grew Up with the country,CAT-0008,2,18.02,In stock,18
+BKS-000038,"In a Dark, Dark Wood",CAT-0004,1,19.63,In stock,18
+BKS-000039,Behind Closed Doors,CAT-0014,4,52.22,In stock,18
+BKS-000040,You can't bury them all: Poems,CAT-0001,2,33.63,In stock,17
+BKS-000041,Slow States of Collapse: Poems,CAT-0001,3,57.31,In stock,17
+BKS-000042,Reasons to Stay Alive,CAT-0018,2,26.41,In stock,17
+BKS-000043,Private Paris (Private #10),CAT-0003,5,47.61,In stock,17
+BKS-000044,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,CAT-0018,5,23.11,In stock,17
+BKS-000045,Without Borders (Wanderlove #1),CAT-0022,2,45.07,In stock,16
+BKS-000046,When We Collided,CAT-0023,1,31.77,In stock,16
+BKS-000047,"We Love You, Charlie Freeman",CAT-0003,5,50.27,In stock,16
+BKS-000048,Untitled Collection: Sabbath Poems 2014,CAT-0001,4,14.27,In stock,16
+BKS-000049,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",CAT-0018,4,44.18,In stock,16
+BKS-000050,Unicorn Tracks,CAT-0024,3,18.78,In stock,16
+BKS-000051,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",CAT-0005,1,25.52,In stock,16
+BKS-000052,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),CAT-0009,1,16.28,In stock,16
+BKS-000053,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,CAT-0018,3,31.12,In stock,16
+BKS-000054,This One Summer,CAT-0009,4,19.49,In stock,16
+BKS-000055,Thirst,CAT-0003,5,17.27,In stock,16
+BKS-000056,The Torch Is Passed: A Harding Family Story,CAT-0025,1,19.09,In stock,16
+BKS-000057,The Secret of Dreadwillow Carse,CAT-0017,1,56.13,In stock,16
+BKS-000058,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",CAT-0015,1,56.41,In stock,16
+BKS-000059,The Past Never Ends,CAT-0004,4,56.5,In stock,16
+BKS-000060,The Natural History of Us (The Fine Art of Pretending #2),CAT-0006,3,45.22,In stock,16
+BKS-000061,The Nameless City (The Nameless City #1),CAT-0009,4,38.16,In stock,16
+BKS-000062,The Murder That Never Was (Forensic Instincts #5),CAT-0003,3,54.11,In stock,16
+BKS-000063,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,CAT-0026,4,42.96,In stock,16
+BKS-000064,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",CAT-0025,4,23.89,In stock,16
+BKS-000065,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,CAT-0018,3,16.77,In stock,16
+BKS-000066,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",CAT-0008,5,20.59,In stock,16
+BKS-000067,The Gutsy Girl: Escapades for Your Life of Epic Adventure,CAT-0018,1,37.13,In stock,16
+BKS-000068,The Electric Pencil: Drawings from Inside State Hospital No. 3,CAT-0018,1,56.06,In stock,16
+BKS-000069,The Death of Humanity: and the Case for Life,CAT-0021,4,58.11,In stock,16
+BKS-000070,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",CAT-0027,3,49.05,In stock,16
+BKS-000071,The Art Forger,CAT-0025,3,40.76,In stock,16
+BKS-000072,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,CAT-0005,1,19.73,In stock,16
+BKS-000073,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,CAT-0020,5,32.24,In stock,16
+BKS-000074,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,CAT-0018,4,41.83,In stock,16
+BKS-000075,Soul Reader,CAT-0008,2,39.58,In stock,16
+BKS-000076,Security,CAT-0028,2,39.25,In stock,16
+BKS-000077,"Saga, Volume 6 (Saga (Collected Editions) #6)",CAT-0024,3,25.02,In stock,16
+BKS-000078,"Saga, Volume 5 (Saga (Collected Editions) #5)",CAT-0009,2,51.04,In stock,16
+BKS-000079,Reskilling America: Learning to Labor in the Twenty-First Century,CAT-0018,2,19.83,In stock,16
+BKS-000080,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",CAT-0009,3,50.4,In stock,16
+BKS-000081,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",CAT-0009,5,13.61,In stock,16
+BKS-000082,Princess Between Worlds (Wide-Awake Princess #5),CAT-0024,5,13.34,In stock,16
+BKS-000083,"Pop Gun War, Volume 1: Gift",CAT-0009,1,18.97,In stock,16
+BKS-000084,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",CAT-0005,2,36.28,In stock,16
+BKS-000085,Patience,CAT-0009,3,10.16,In stock,16
+BKS-000086,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",CAT-0009,4,15.44,In stock,16
+BKS-000087,orange: The Complete Collection 1 (orange: The Complete Collection #1),CAT-0009,1,48.41,In stock,16
+BKS-000088,Online Marketing for Busy Authors: A Step-By-Step Guide,CAT-0029,1,46.35,In stock,16
+BKS-000089,On a Midnight Clear,CAT-0025,3,14.07,In stock,16
+BKS-000090,Obsidian (Lux #1),CAT-0006,2,14.86,In stock,16
+BKS-000091,My Paris Kitchen: Recipes and Stories,CAT-0015,2,33.37,In stock,16
+BKS-000092,Masks and Shadows,CAT-0024,2,56.4,In stock,16
+BKS-000093,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",CAT-0015,4,14.02,In stock,16
+BKS-000094,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",CAT-0009,2,46.91,In stock,16
+BKS-000095,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",CAT-0009,3,45.61,In stock,16
+BKS-000096,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),CAT-0009,2,19.92,In stock,16
+BKS-000097,"Layered: Baking, Building, and Styling Spectacular Cakes",CAT-0015,1,40.11,In stock,16
+BKS-000098,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),CAT-0025,2,53.9,In stock,16
+BKS-000099,Join,CAT-0011,5,35.67,In stock,16
+BKS-000100,In the Country We Love: My Family Divided,CAT-0018,4,22,In stock,16
+BKS-000101,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,CAT-0026,5,57.36,In stock,16
+BKS-000102,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",CAT-0009,2,29.17,In stock,16
+BKS-000103,I am a Hero Omnibus Volume 1,CAT-0009,3,54.63,In stock,16
+BKS-000104,How to Be Miserable: 40 Strategies You Already Use,CAT-0029,1,46.03,In stock,16
+BKS-000105,Her Backup Boyfriend (The Sorensen Family #1),CAT-0016,1,33.97,In stock,16
+BKS-000106,"Giant Days, Vol. 2 (Giant Days #5-8)",CAT-0009,2,22.11,In stock,16
+BKS-000107,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,CAT-0002,3,29.69,In stock,16
+BKS-000108,First and First (Five Boroughs #3),CAT-0016,4,15.97,In stock,16
+BKS-000109,Fifty Shades Darker (Fifty Shades #2),CAT-0016,1,21.96,In stock,16
+BKS-000110,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,CAT-0018,2,54.35,In stock,16
+BKS-000111,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",CAT-0030,2,37.97,In stock,16
+BKS-000112,Danganronpa Volume 1,CAT-0009,4,51.99,In stock,16
+BKS-000113,Crown of Midnight (Throne of Glass #2),CAT-0024,3,43.29,In stock,16
+BKS-000114,"Codename Baboushka, Volume 1: The Conclave of Death",CAT-0009,4,36.72,In stock,16
+BKS-000115,Camp Midnight,CAT-0009,4,17.08,In stock,16
+BKS-000116,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,CAT-0018,5,29.14,In stock,16
+BKS-000117,Burning,CAT-0006,3,28.81,In stock,16
+BKS-000118,Bossypants,CAT-0008,2,49.46,In stock,16
+BKS-000119,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",CAT-0009,2,37.92,In stock,16
+BKS-000120,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",CAT-0024,2,28.09,In stock,16
+BKS-000121,Algorithms to Live By: The Computer Science of Human Decisions,CAT-0018,1,30.81,In stock,16
+BKS-000122,A World of Flavor: Your Gluten Free Passport,CAT-0008,1,42.95,In stock,16
+BKS-000123,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",CAT-0008,5,56.76,In stock,16
+BKS-000124,A Murder in Time,CAT-0004,1,16.64,In stock,16
+BKS-000125,A Flight of Arrows (The Pathfinders #2),CAT-0002,5,55.53,In stock,16
+BKS-000126,A Fierce and Subtle Poison,CAT-0006,4,28.13,In stock,16
+BKS-000127,A Court of Thorns and Roses (A Court of Thorns and Roses #1),CAT-0024,1,52.37,In stock,16
+BKS-000128,(Un)Qualified: How God Uses Broken People to Do Big Things,CAT-0031,5,54,In stock,16
+BKS-000129,You Are What You Love: The Spiritual Power of Habit,CAT-0030,4,21.87,In stock,15
+BKS-000130,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",CAT-0011,4,43.3,In stock,15
+BKS-000131,Tuesday Nights in 1980,CAT-0003,2,21.04,In stock,15
+BKS-000132,Tracing Numbers on a Train,CAT-0008,3,41.6,In stock,15
+BKS-000133,Throne of Glass (Throne of Glass #1),CAT-0024,3,35.07,In stock,15
+BKS-000134,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,CAT-0005,1,59.64,In stock,15
+BKS-000135,Thirteen Reasons Why,CAT-0008,1,52.72,In stock,15
+BKS-000136,The White Cat and the Monk: A Retelling of the Poem âPangur BÃ¡nâ,CAT-0017,4,58.08,In stock,15
+BKS-000137,The Wedding Dress,CAT-0016,1,24.12,In stock,15
+BKS-000138,The Vacationers,CAT-0003,4,42.15,In stock,15
+BKS-000139,The Third Wave: An Entrepreneurâs Vision of the Future,CAT-0007,5,12.61,In stock,15
+BKS-000140,The Stranger,CAT-0021,4,17.44,In stock,15
+BKS-000141,The Shadow Hero (The Shadow Hero),CAT-0009,1,33.14,In stock,15
+BKS-000142,The Secret (The Secret #1),CAT-0008,4,27.37,In stock,15
+BKS-000143,The Regional Office Is Under Attack!,CAT-0003,5,51.36,In stock,15
+BKS-000144,The Psychopath Test: A Journey Through the Madness Industry,CAT-0008,2,36,In stock,15
+BKS-000145,The Project,CAT-0011,1,10.65,In stock,15
+BKS-000146,The Power of Now: A Guide to Spiritual Enlightenment,CAT-0018,2,43.54,In stock,15
+BKS-000147,The Omnivore's Dilemma: A Natural History of Four Meals,CAT-0018,2,38.21,In stock,15
+BKS-000148,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,CAT-0015,5,37.34,In stock,15
+BKS-000149,The Murder of Roger Ackroyd (Hercule Poirot #4),CAT-0004,4,44.1,In stock,15
+BKS-000150,The Mistake (Off-Campus #2),CAT-0022,3,43.29,In stock,15
+BKS-000151,The Matchmaker's Playbook (Wingmen Inc. #1),CAT-0022,1,55.85,In stock,15
+BKS-000152,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,CAT-0015,2,37.6,In stock,15
+BKS-000153,The Long Shadow of Small Ghosts: Murder and Memory in an American City,CAT-0032,1,10.97,In stock,15
+BKS-000154,The Kite Runner,CAT-0008,4,41.82,In stock,15
+BKS-000155,The House by the Lake,CAT-0002,1,36.95,In stock,15
+BKS-000156,The Glittering Court (The Glittering Court #1),CAT-0024,1,44.28,In stock,15
+BKS-000157,The Girl on the Train,CAT-0008,2,55.02,In stock,15
+BKS-000158,The Genius of Birds,CAT-0018,1,17.24,In stock,15
+BKS-000159,The Emerald Mystery,CAT-0008,2,23.15,In stock,15
+BKS-000160,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,CAT-0015,1,41.25,In stock,15
+BKS-000161,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,CAT-0008,3,32,In stock,15
+BKS-000162,The Artist's Way: A Spiritual Path to Higher Creativity,CAT-0018,5,38.49,In stock,15
+BKS-000163,The Art of War,CAT-0008,5,33.34,In stock,15
+BKS-000164,The Argonauts,CAT-0033,2,10.93,In stock,15
+BKS-000165,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,CAT-0007,3,27.55,In stock,15
+BKS-000166,Suddenly in Love (Lake Haven #1),CAT-0016,2,55.99,In stock,15
+BKS-000167,Something More Than This,CAT-0016,4,16.24,In stock,15
+BKS-000168,Soft Apocalypse,CAT-0011,2,26.12,In stock,15
+BKS-000169,So You've Been Publicly Shamed,CAT-0018,2,12.23,In stock,15
+BKS-000170,Shoe Dog: A Memoir by the Creator of NIKE,CAT-0007,2,23.99,In stock,15
+BKS-000171,"Shobu Samurai, Project Aryoku (#3)",CAT-0025,3,29.06,In stock,15
+BKS-000172,Secrets and Lace (Fatal Hearts #1),CAT-0008,1,20.27,In stock,15
+BKS-000173,Scarlett Epstein Hates It Here,CAT-0006,5,43.55,In stock,15
+BKS-000174,Romero and Juliet: A Tragic Tale of Love and Zombies,CAT-0008,1,36.94,In stock,15
+BKS-000175,Redeeming Love,CAT-0034,5,20.47,In stock,15
+BKS-000176,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,CAT-0008,1,41.06,In stock,15
+BKS-000177,Poems That Make Grown Women Cry,CAT-0001,4,14.19,In stock,15
+BKS-000178,"Nightingale, Sing",CAT-0006,1,38.28,In stock,15
+BKS-000179,Night Sky with Exit Wounds,CAT-0001,1,41.05,In stock,15
+BKS-000180,Mrs. Houdini,CAT-0002,5,30.25,In stock,15
+BKS-000181,Modern Romance,CAT-0025,5,28.26,In stock,15
+BKS-000182,Miss Peregrineâs Home for Peculiar Children (Miss Peregrineâs Peculiar Children #1),CAT-0008,1,10.76,In stock,15
+BKS-000183,Louisa: The Extraordinary Life of Mrs. Adams,CAT-0035,2,16.85,In stock,15
+BKS-000184,Little Red,CAT-0017,3,13.47,In stock,15
+BKS-000185,Library of Souls (Miss Peregrineâs Peculiar Children #3),CAT-0006,5,48.56,In stock,15
+BKS-000186,Large Print Heart of the Pride,CAT-0008,2,19.15,In stock,15
+BKS-000187,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,CAT-0036,4,57.36,In stock,15
+BKS-000188,Hollow City (Miss Peregrineâs Peculiar Children #2),CAT-0024,1,42.98,In stock,15
+BKS-000189,Grumbles,CAT-0008,2,22.16,In stock,15
+BKS-000190,Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond,CAT-0013,4,49.43,In stock,15
+BKS-000191,Frostbite (Vampire Academy #2),CAT-0006,5,29.99,In stock,15
+BKS-000192,Follow You Home,CAT-0028,1,21.36,In stock,15
+BKS-000193,First Steps for New Christians (Print Edition),CAT-0008,1,29,In stock,15
+BKS-000194,Finders Keepers (Bill Hodges Trilogy #2),CAT-0003,5,53.53,In stock,15
+BKS-000195,"Fables, Vol. 1: Legends in Exile (Fables #1)",CAT-0009,4,41.62,In stock,15
+BKS-000196,Eureka Trivia 6.0,CAT-0008,4,54.59,In stock,15
+BKS-000197,Drive: The Surprising Truth About What Motivates Us,CAT-0008,4,34.95,In stock,15
+BKS-000198,Done Rubbed Out (Reightman & Bailey #1),CAT-0008,5,37.72,In stock,15
+BKS-000199,Doing It Over (Most Likely To #1),CAT-0016,3,35.61,In stock,15
+BKS-000200,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",CAT-0015,3,42.16,In stock,15
+BKS-000201,Dark Notes,CAT-0037,5,19.19,In stock,15
+BKS-000202,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",CAT-0018,3,19.43,In stock,15
+BKS-000203,Close to You,CAT-0034,4,49.46,In stock,15
+BKS-000204,Chasing Heaven: What Dying Taught Me About Living,CAT-0020,2,37.8,In stock,15
+BKS-000205,Big Magic: Creative Living Beyond Fear,CAT-0018,3,30.8,In stock,15
+BKS-000206,Becoming Wise: An Inquiry into the Mystery and Art of Living,CAT-0018,2,27.43,In stock,15
+BKS-000207,Beauty Restored (Riley Family Legacy Novellas #3),CAT-0008,2,11.11,In stock,15
+BKS-000208,Batman: The Long Halloween (Batman),CAT-0009,2,36.5,In stock,15
+BKS-000209,Batman: The Dark Knight Returns (Batman),CAT-0009,5,15.38,In stock,15
+BKS-000210,Ayumi's Violin,CAT-0008,2,15.48,In stock,15
+BKS-000211,Anonymous,CAT-0008,4,46.82,In stock,15
+BKS-000212,Amy Meets the Saints and Sages,CAT-0008,3,18.46,In stock,15
+BKS-000213,Amid the Chaos,CAT-0038,1,36.58,In stock,15
+BKS-000214,Amatus,CAT-0008,5,50.54,In stock,15
+BKS-000215,Agnostic: A Spirited Manifesto,CAT-0018,5,12.51,In stock,15
+BKS-000216,Zealot: The Life and Times of Jesus of Nazareth,CAT-0005,3,24.7,In stock,14
+BKS-000217,You (You #1),CAT-0014,5,43.61,In stock,14
+BKS-000218,"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",CAT-0009,4,37.34,In stock,14
+BKS-000219,Wild Swans,CAT-0006,2,14.36,In stock,14
+BKS-000220,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,CAT-0012,4,52.65,In stock,14
+BKS-000221,Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,CAT-0018,4,38.2,In stock,14
+BKS-000222,What's It Like in Space?: Stories from Astronauts Who've Been There,CAT-0018,2,19.6,In stock,14
+BKS-000223,"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",CAT-0009,1,53.9,In stock,14
+BKS-000224,Walt Disney's Alice in Wonderland,CAT-0017,5,12.96,In stock,14
+BKS-000225,V for Vendetta (V for Vendetta Complete),CAT-0008,4,37.1,In stock,14
+BKS-000226,Until Friday Night (The Field Party #1),CAT-0006,2,46.31,In stock,14
+BKS-000227,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",CAT-0008,2,45.95,In stock,14
+BKS-000228,Twenty Yawns,CAT-0017,2,22.08,In stock,14
+BKS-000229,Through the Woods,CAT-0009,2,25.38,In stock,14
+BKS-000230,This Is Where It Ends,CAT-0006,2,27.12,In stock,14
+BKS-000231,The Year of Magical Thinking,CAT-0018,2,43.04,In stock,14
+BKS-000232,The Wright Brothers,CAT-0008,4,56.8,In stock,14
+BKS-000233,The White Queen (The Cousins' War #1),CAT-0025,5,25.91,In stock,14
+BKS-000234,The Wedding Pact (The O'Malleys #2),CAT-0016,3,32.61,In stock,14
+BKS-000235,The Time Keeper,CAT-0003,5,27.88,In stock,14
+BKS-000236,The Testament of Mary,CAT-0003,4,52.67,In stock,14
+BKS-000237,The Star-Touched Queen,CAT-0024,5,46.02,In stock,14
+BKS-000238,The Songs of the Gods,CAT-0008,5,44.48,In stock,14
+BKS-000239,The Song of Achilles,CAT-0025,5,37.4,In stock,14
+BKS-000240,The Rosie Project (Don Tillman #1),CAT-0008,1,54.04,In stock,14
+BKS-000241,The Power of Habit: Why We Do What We Do in Life and Business,CAT-0008,3,16.88,In stock,14
+BKS-000242,The Marriage of Opposites,CAT-0002,4,28.08,In stock,14
+BKS-000243,The Lucifer Effect: Understanding How Good People Turn Evil,CAT-0039,1,10.4,In stock,14
+BKS-000244,The Long Haul (Diary of a Wimpy Kid #9),CAT-0040,1,44.07,In stock,14
+BKS-000245,The Loney,CAT-0028,1,23.4,In stock,14
+BKS-000246,The Literature Book (Big Ideas Simply Explained),CAT-0018,3,17.43,In stock,14
+BKS-000247,The Last Mile (Amos Decker #2),CAT-0004,2,54.21,In stock,14
+BKS-000248,The Immortal Life of Henrietta Lacks,CAT-0025,2,40.67,In stock,14
+BKS-000249,The Hidden Oracle (The Trials of Apollo #1),CAT-0024,2,52.26,In stock,14
+BKS-000250,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,CAT-0015,3,28.77,In stock,14
+BKS-000251,The Guilty (Will Robie #4),CAT-0014,2,13.82,In stock,14
+BKS-000252,The First Hostage (J.B. Collins #2),CAT-0003,3,25.85,In stock,14
+BKS-000253,The Dovekeepers,CAT-0025,1,48.78,In stock,14
+BKS-000254,The Darkest Lie,CAT-0006,5,35.35,In stock,14
+BKS-000255,The Bane Chronicles (The Bane Chronicles #1-11),CAT-0024,4,44.73,In stock,14
+BKS-000256,The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts,CAT-0018,1,15.77,In stock,14
+BKS-000257,The 14th Colony (Cotton Malone #11),CAT-0014,1,39.24,In stock,14
+BKS-000258,That Darkness (Gardiner and Renner #1),CAT-0004,1,13.92,In stock,14
+BKS-000259,Tastes Like Fear (DI Marnie Rome #3),CAT-0004,1,10.69,In stock,14
+BKS-000260,Take Me with You,CAT-0003,3,45.21,In stock,14
+BKS-000261,Swell: A Year of Waves,CAT-0018,1,45.58,In stock,14
+BKS-000262,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),CAT-0009,5,11.89,In stock,14
+BKS-000263,Still Life with Bread Crumbs,CAT-0003,3,26.41,In stock,14
+BKS-000264,Steve Jobs,CAT-0008,5,39.5,In stock,14
+BKS-000265,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,CAT-0026,4,44.74,In stock,14
+BKS-000266,Someone Like You (The Harrisons #2),CAT-0023,5,52.79,In stock,14
+BKS-000267,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",CAT-0009,4,35.43,In stock,14
+BKS-000268,Shtum,CAT-0003,4,55.84,In stock,14
+BKS-000269,See America: A Celebration of Our National Parks & Treasured Sites,CAT-0013,3,48.87,In stock,14
+BKS-000270,salt.,CAT-0001,4,46.78,In stock,14
+BKS-000271,Robin War,CAT-0009,3,47.82,In stock,14
+BKS-000272,"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",CAT-0009,2,25.48,In stock,14
+BKS-000273,Rain Fish,CAT-0017,3,23.57,In stock,14
+BKS-000274,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",CAT-0001,5,50.89,In stock,14
+BKS-000275,Pet Sematary,CAT-0028,3,10.56,In stock,14
+BKS-000276,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",CAT-0029,3,52.15,In stock,14
+BKS-000277,Once Was a Time,CAT-0017,2,18.28,In stock,14
+BKS-000278,Old School (Diary of a Wimpy Kid #10),CAT-0040,5,11.83,In stock,14
+BKS-000279,No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,CAT-0018,2,21.95,In stock,14
+BKS-000280,"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",CAT-0009,2,38.39,In stock,14
+BKS-000281,My Name Is Lucy Barton,CAT-0003,1,41.56,In stock,14
+BKS-000282,My Mrs. Brown,CAT-0003,3,24.48,In stock,14
+BKS-000283,My Kind of Crazy,CAT-0006,1,40.36,In stock,14
+BKS-000284,Mr. Mercedes (Bill Hodges Trilogy #1),CAT-0003,1,28.9,In stock,14
+BKS-000285,More Than Music (Chasing the Dream #1),CAT-0025,2,37.61,In stock,14
+BKS-000286,Made to Stick: Why Some Ideas Survive and Others Die,CAT-0007,5,38.85,In stock,14
+BKS-000287,Luis Paints the World,CAT-0017,3,53.95,In stock,14
+BKS-000288,Luckiest Girl Alive,CAT-0008,3,49.83,In stock,14
+BKS-000289,Lowriders to the Center of the Earth (Lowriders in Space #2),CAT-0009,2,51.51,In stock,14
+BKS-000290,Love Is a Mix Tape (Music #1),CAT-0010,1,18.03,In stock,14
+BKS-000291,Looking for Lovely: Collecting the Moments that Matter,CAT-0018,5,29.14,In stock,14
+BKS-000292,"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",CAT-0008,4,46.91,In stock,14
+BKS-000293,Let It Out: A Journey Through Journaling,CAT-0018,5,26.79,In stock,14
+BKS-000294,Lady Midnight (The Dark Artifices #1),CAT-0008,5,16.28,In stock,14
+BKS-000295,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",CAT-0015,1,19.55,In stock,14
+BKS-000296,Island of Dragons (Unwanteds #7),CAT-0024,1,29.65,In stock,14
+BKS-000297,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,CAT-0040,4,25.98,In stock,14
+BKS-000298,I Am Pilgrim (Pilgrim #1),CAT-0003,4,10.6,In stock,14
+BKS-000299,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",CAT-0040,5,14.75,In stock,14
+BKS-000300,"Hush, Hush (Hush, Hush #1)",CAT-0008,3,47.02,In stock,14
+BKS-000301,Hold Your Breath (Search and Rescue #1),CAT-0016,1,28.82,In stock,14
+BKS-000302,Hamilton: The Revolution,CAT-0018,3,58.79,In stock,14
+BKS-000303,Greek Mythic History,CAT-0008,5,10.23,In stock,14
+BKS-000304,God: The Most Unpleasant Character in All Fiction,CAT-0030,5,30.03,In stock,14
+BKS-000305,Glory over Everything: Beyond The Kitchen House,CAT-0002,3,45.84,In stock,14
+BKS-000306,Feathers: Displays of Brilliant Plumage,CAT-0019,3,49.05,In stock,14
+BKS-000307,"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",CAT-0018,4,15.06,In stock,14
+BKS-000308,Every Last Word,CAT-0008,3,46.47,In stock,14
+BKS-000309,Eligible (The Austen Project #4),CAT-0003,3,27.09,In stock,14
+BKS-000310,El Deafo,CAT-0009,5,57.62,In stock,14
+BKS-000311,Eight Hundred Grapes,CAT-0003,4,14.39,In stock,14
+BKS-000312,"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",CAT-0018,5,51.75,In stock,14
+BKS-000313,"Eat Fat, Get Thin",CAT-0027,2,54.07,In stock,14
+BKS-000314,Don't Get Caught,CAT-0006,1,55.35,In stock,14
+BKS-000315,Doctor Sleep (The Shining #2),CAT-0028,2,40.12,In stock,14
+BKS-000316,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),CAT-0024,5,37.51,In stock,14
+BKS-000317,Dear Mr. Knightley,CAT-0003,5,11.21,In stock,14
+BKS-000318,Daily Fantasy Sports,CAT-0008,1,36.58,In stock,14
+BKS-000319,Crazy Love: Overwhelmed by a Relentless God,CAT-0031,2,47.72,In stock,14
+BKS-000320,Cometh the Hour (The Clifton Chronicles #6),CAT-0003,3,25.01,In stock,14
+BKS-000321,Code Name Verity (Code Name Verity #1),CAT-0025,4,22.13,In stock,14
+BKS-000322,Clockwork Angel (The Infernal Devices #1),CAT-0008,1,44.14,In stock,14
+BKS-000323,City of Glass (The Mortal Instruments #3),CAT-0024,4,56.02,In stock,14
+BKS-000324,City of Fallen Angels (The Mortal Instruments #4),CAT-0008,4,11.23,In stock,14
+BKS-000325,City of Bones (The Mortal Instruments #1),CAT-0008,1,43.28,In stock,14
+BKS-000326,City of Ashes (The Mortal Instruments #2),CAT-0008,1,47.27,In stock,14
+BKS-000327,Cell,CAT-0025,4,20.29,In stock,14
+BKS-000328,Catching Jordan (Hundred Oaks),CAT-0006,3,50.83,In stock,14
+BKS-000329,"Carry On, Warrior: Thoughts on Life Unarmed",CAT-0008,3,31.85,In stock,14
+BKS-000330,Carrie,CAT-0008,2,46.23,In stock,14
+BKS-000331,Buying In: The Secret Dialogue Between What We Buy and Who We Are,CAT-0018,4,37.8,In stock,14
+BKS-000332,Brain on Fire: My Month of Madness,CAT-0018,5,49.32,In stock,14
+BKS-000333,Batman: Europa,CAT-0009,2,32.01,In stock,14
+BKS-000334,Barefoot Contessa Back to Basics,CAT-0015,1,28.01,In stock,14
+BKS-000335,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,CAT-0015,5,50.62,In stock,14
+BKS-000336,Balloon Animals,CAT-0003,3,17.03,In stock,14
+BKS-000337,Art Ops Vol. 1,CAT-0009,3,48.8,In stock,14
+BKS-000338,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),CAT-0006,4,58.14,In stock,14
+BKS-000339,Angels Walking (Angels Walking #1),CAT-0025,2,34.2,In stock,14
+BKS-000340,Angels & Demons (Robert Langdon #1),CAT-0008,3,51.48,In stock,14
+BKS-000341,All the Light We Cannot See,CAT-0041,5,29.87,In stock,14
+BKS-000342,"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",CAT-0009,2,10.9,In stock,14
+BKS-000343,Abstract City,CAT-0018,5,56.37,In stock,14
+BKS-000344,A Time of Torment (Charlie Parker #14),CAT-0004,5,48.35,In stock,14
+BKS-000345,A Study in Scarlet (Sherlock Holmes #1),CAT-0004,2,16.73,In stock,14
+BKS-000346,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",CAT-0025,2,56.48,In stock,14
+BKS-000347,A People's History of the United States,CAT-0025,2,40.79,In stock,14
+BKS-000348,A Man Called Ove,CAT-0003,1,39.72,In stock,14
+BKS-000349,A Distant Mirror: The Calamitous 14th Century,CAT-0005,3,14.58,In stock,14
+BKS-000350,A Brush of Wings (Angels Walking #3),CAT-0025,1,55.51,In stock,14
+BKS-000351,1491: New Revelations of the Americas Before Columbus,CAT-0005,3,21.8,In stock,14
+BKS-000352,"The Three Searches, Meaning, and the Story",CAT-0008,3,13.33,In stock,13
+BKS-000353,Searching for Meaning in Gailana,CAT-0024,1,38.73,In stock,13
+BKS-000354,Rook,CAT-0025,4,37.86,In stock,13
+BKS-000355,My Kitchen Year: 136 Recipes That Saved My Life,CAT-0015,2,11.53,In stock,13
+BKS-000356,13 Hours: The Inside Account of What Really Happened In Benghazi,CAT-0018,1,27.06,In stock,13
+BKS-000357,Will You Won't You Want Me?,CAT-0036,3,13.86,In stock,12
+BKS-000358,Tipping Point for Planet Earth: How Close Are We to the Edge?,CAT-0026,1,37.55,In stock,12
+BKS-000359,The Star-Touched Queen,CAT-0024,5,32.3,In stock,12
+BKS-000360,The Silent Sister (Riley MacPherson #1),CAT-0003,5,46.29,In stock,12
+BKS-000361,The Midnight Watch: A Novel of the Titanic and the Californian,CAT-0025,1,26.2,In stock,12
+BKS-000362,The Lonely City: Adventures in the Art of Being Alone,CAT-0018,2,33.26,In stock,12
+BKS-000363,The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,CAT-0025,4,59.15,In stock,12
+BKS-000364,The Golden Condom: And Other Essays on Love Lost and Found,CAT-0039,1,39.43,In stock,12
+BKS-000365,The Epidemic (The Program 0.6),CAT-0006,5,14.44,In stock,12
+BKS-000366,The Dinner Party,CAT-0003,2,56.54,In stock,12
+BKS-000367,The Diary of a Young Girl,CAT-0018,3,59.9,In stock,12
+BKS-000368,The Children,CAT-0025,3,11.88,In stock,12
+BKS-000369,Stars Above (The Lunar Chronicles #4.5),CAT-0006,2,48.05,In stock,12
+BKS-000370,Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,CAT-0018,3,21.21,In stock,12
+BKS-000371,Raspberry Pi Electronics Projects for the Evil Genius,CAT-0008,4,49.67,In stock,12
+BKS-000372,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,CAT-0007,1,43.14,In stock,12
+BKS-000373,Psycho: Sanitarium (Psycho #1.5),CAT-0028,5,36.97,In stock,12
+BKS-000374,Poisonous (Max Revere Novels #3),CAT-0004,3,26.8,In stock,12
+BKS-000375,One with You (Crossfire #5),CAT-0025,4,15.71,In stock,12
+BKS-000376,No Love Allowed (Dodge Cove #1),CAT-0006,4,54.65,In stock,12
+BKS-000377,Murder at the 42nd Street Library (Raymond Ambler #1),CAT-0004,4,54.36,In stock,12
+BKS-000378,Most Wanted,CAT-0004,3,35.28,In stock,12
+BKS-000379,"Love, Lies and Spies",CAT-0002,2,20.55,In stock,12
+BKS-000380,How to Speak Golf: An Illustrated Guide to Links Lingo,CAT-0008,5,58.32,In stock,12
+BKS-000381,Hide Away (Eve Duncan #20),CAT-0004,1,11.84,In stock,12
+BKS-000382,Furiously Happy: A Funny Book About Horrible Things,CAT-0018,4,41.46,In stock,12
+BKS-000383,Everyday Italian: 125 Simple and Delicious Recipes,CAT-0015,5,20.1,In stock,12
+BKS-000384,Equal Is Unfair: America's Misguided Fight Against Income Inequality,CAT-0012,1,56.86,In stock,12
+BKS-000385,Eleanor & Park,CAT-0008,5,56.51,In stock,12
+BKS-000386,Dirty (Dive Bar #1),CAT-0016,4,40.83,In stock,12
+BKS-000387,Can You Keep a Secret? (Fear Street Relaunch #4),CAT-0028,1,48.64,In stock,12
+BKS-000388,Boar Island (Anna Pigeon #19),CAT-0004,3,59.48,In stock,12
+BKS-000389,A Paris Apartment,CAT-0002,4,39.01,In stock,12
+BKS-000390,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",CAT-0015,1,38.77,In stock,12
+BKS-000391,Troublemaker: Surviving Hollywood and Scientology,CAT-0008,2,48.39,In stock,11
+BKS-000392,The Widow,CAT-0004,2,27.26,In stock,11
+BKS-000393,"The Sleep Revolution: Transforming Your Life, One Night at a Time",CAT-0018,4,11.68,In stock,11
+BKS-000394,The Improbability of Love,CAT-0003,1,59.45,In stock,11
+BKS-000395,The Art of Startup Fundraising,CAT-0007,3,21,In stock,11
+BKS-000396,Take Me Home Tonight (Rock Star Romance #3),CAT-0016,3,53.98,In stock,11
+BKS-000397,Sleeping Giants (Themis Files #1),CAT-0011,1,48.74,In stock,11
+BKS-000398,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",CAT-0035,2,21.15,In stock,11
+BKS-000399,Playing with Fire,CAT-0004,3,13.71,In stock,11
+BKS-000400,Off the Hook (Fishing for Trouble #1),CAT-0016,3,47.67,In stock,11
+BKS-000401,Mothering Sunday,CAT-0003,2,13.34,In stock,11
+BKS-000402,"Mother, Can You Not?",CAT-0018,5,16.89,In stock,11
+BKS-000403,M Train,CAT-0033,1,27.18,In stock,11
+BKS-000404,Lilac Girls,CAT-0002,2,17.28,In stock,11
+BKS-000405,Lies and Other Acts of Love,CAT-0003,1,45.14,In stock,11
+BKS-000406,Lab Girl,CAT-0033,1,40.85,In stock,11
+BKS-000407,Keep Me Posted,CAT-0036,4,20.46,In stock,11
+BKS-000408,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,CAT-0039,3,56.27,In stock,11
+BKS-000409,Grey (Fifty Shades #4),CAT-0036,4,48.49,In stock,11
+BKS-000410,"Exit, Pursued by a Bear",CAT-0006,4,51.34,In stock,11
+BKS-000411,Daredevils,CAT-0003,3,16.34,In stock,11
+BKS-000412,Cravings: Recipes for What You Want to Eat,CAT-0015,3,20.5,In stock,11
+BKS-000413,Born for This: How to Find the Work You Were Meant to Do,CAT-0007,5,21.59,In stock,11
+BKS-000414,Arena,CAT-0011,4,21.36,In stock,11
+BKS-000415,Adultery,CAT-0008,5,20.88,In stock,11
+BKS-000416,A Mother's Reckoning: Living in the Aftermath of Tragedy,CAT-0018,3,19.53,In stock,11
+BKS-000417,A Gentleman's Position (Society of Gentlemen #3),CAT-0016,5,14.75,In stock,11
+BKS-000418,11/22/1963,CAT-0003,3,48.48,In stock,11
+BKS-000419,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",CAT-0018,2,24.57,In stock,10
+BKS-000420,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,CAT-0027,5,49.71,In stock,10
+BKS-000421,Without Shame,CAT-0025,5,48.27,In stock,9
+BKS-000422,Watchmen,CAT-0025,4,58.05,In stock,9
+BKS-000423,Unlimited Intuition Now,CAT-0008,4,58.87,In stock,9
+BKS-000424,Underlying Notes,CAT-0008,2,11.82,In stock,9
+BKS-000425,The Shack,CAT-0003,1,28.03,In stock,9
+BKS-000426,The New Brand You: Your New Image Makes the Sale for You,CAT-0008,5,44.05,In stock,9
+BKS-000427,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",CAT-0015,4,12.34,In stock,9
+BKS-000428,The Flowers Lied,CAT-0008,2,16.68,In stock,9
+BKS-000429,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",CAT-0026,1,55.91,In stock,9
+BKS-000430,The Book of Mormon,CAT-0030,3,24.57,In stock,9
+BKS-000431,The Art and Science of Low Carbohydrate Living,CAT-0027,5,52.98,In stock,9
+BKS-000432,The Alien Club,CAT-0006,1,54.4,In stock,9
+BKS-000433,Suzie Snowflake: One beautiful flake (a self-esteem story),CAT-0042,5,54.81,In stock,9
+BKS-000434,Nap-a-Roo,CAT-0017,1,25.08,In stock,9
+BKS-000435,"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",CAT-0008,4,10.41,In stock,9
+BKS-000436,Modern Day Fables,CAT-0008,2,47.44,In stock,9
+BKS-000437,If I Gave You God's Phone Number....: Searching for Spirituality in America,CAT-0020,1,20.91,In stock,9
+BKS-000438,"Fruits Basket, Vol. 9 (Fruits Basket #9)",CAT-0009,4,33.95,In stock,9
+BKS-000439,Dress Your Family in Corduroy and Denim,CAT-0040,3,43.68,In stock,9
+BKS-000440,Don't Forget Steven,CAT-0006,1,33.23,In stock,9
+BKS-000441,Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,CAT-0018,2,35.92,In stock,9
+BKS-000442,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,CAT-0019,4,48.63,In stock,9
+BKS-000443,A Shard of Ice (The Black Symphony Saga #1),CAT-0024,3,56.63,In stock,9
+BKS-000444,A Hero's Curse (The Unseen Chronicles #1),CAT-0025,3,50.49,In stock,9
+BKS-000445,23 Degrees South: A Tropical Tale of Changing Whether...,CAT-0025,2,35.79,In stock,9
+BKS-000446,"Zero to One: Notes on Startups, or How to Build the Future",CAT-0018,3,34.06,In stock,8
+BKS-000447,Why Not Me?,CAT-0018,1,17.76,In stock,8
+BKS-000448,When Breath Becomes Air,CAT-0018,2,39.36,In stock,8
+BKS-000449,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,CAT-0013,2,36.94,In stock,8
+BKS-000450,The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),CAT-0008,5,43.62,In stock,8
+BKS-000451,The New Drawing on the Right Side of the Brain,CAT-0019,3,43.02,In stock,8
+BKS-000452,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",CAT-0018,4,28.45,In stock,8
+BKS-000453,The Martian (The Martian #1),CAT-0008,2,41.39,In stock,8
+BKS-000454,The High Mountains of Portugal,CAT-0003,1,51.15,In stock,8
+BKS-000455,The Grownup,CAT-0043,1,35.88,In stock,8
+BKS-000456,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,CAT-0007,1,36.91,In stock,8
+BKS-000457,South of Sunshine,CAT-0006,1,28.93,In stock,8
+BKS-000458,Smarter Faster Better: The Secrets of Being Productive in Life and Business,CAT-0018,5,38.89,In stock,8
+BKS-000459,Silence in the Dark (Logan Point #4),CAT-0044,3,58.33,In stock,8
+BKS-000460,Shadows of the Past (Logan Point #1),CAT-0034,5,39.67,In stock,8
+BKS-000461,Roller Girl,CAT-0009,5,14.1,In stock,8
+BKS-000462,Rising Strong,CAT-0018,3,21.82,In stock,8
+BKS-000463,Proofs of God: Classical Arguments from Tertullian to Barth,CAT-0021,1,54.21,In stock,8
+BKS-000464,Please Kill Me: The Uncensored Oral History of Punk,CAT-0010,4,31.19,In stock,8
+BKS-000465,Out of Print: City Lights Spotlight No. 14,CAT-0001,5,53.64,In stock,8
+BKS-000466,My Life Next Door (My Life Next Door ),CAT-0006,5,36.39,In stock,8
+BKS-000467,Miller's Valley,CAT-0003,2,58.54,In stock,8
+BKS-000468,Man's Search for Meaning,CAT-0018,3,29.48,In stock,8
+BKS-000469,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",CAT-0018,2,25.06,In stock,8
+BKS-000470,Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,CAT-0018,3,12.55,In stock,8
+BKS-000471,Les Fleurs du Mal,CAT-0001,5,29.04,In stock,8
+BKS-000472,Left Behind (Left Behind #1),CAT-0008,2,40.72,In stock,8
+BKS-000473,Kill 'Em and Leave: Searching for James Brown and the American Soul,CAT-0010,5,45.05,In stock,8
+BKS-000474,Kierkegaard: A Christian Missionary to Christians,CAT-0021,1,47.13,In stock,8
+BKS-000475,John Vassos: Industrial Design for Modern Life,CAT-0008,4,20.22,In stock,8
+BKS-000476,I'll Give You the Sun,CAT-0008,1,56.48,In stock,8
+BKS-000477,I Will Find You,CAT-0018,1,44.21,In stock,8
+BKS-000478,Hystopia: A Novel,CAT-0003,4,21.96,In stock,8
+BKS-000479,Howl and Other Poems,CAT-0001,2,40.45,In stock,8
+BKS-000480,History of Beauty,CAT-0019,4,10.29,In stock,8
+BKS-000481,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,CAT-0008,2,52.86,In stock,8
+BKS-000482,Future Shock (Future Shock #1),CAT-0006,5,55.65,In stock,8
+BKS-000483,Ender's Game (The Ender Quintet #1),CAT-0008,1,43.64,In stock,8
+BKS-000484,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,CAT-0026,1,28.41,In stock,8
+BKS-000485,Death by Leisure: A Cautionary Tale,CAT-0008,4,37.51,In stock,8
+BKS-000486,Brilliant Beacons: A History of the American Lighthouse,CAT-0005,3,11.45,In stock,8
+BKS-000487,Brazen: The Courage to Find the You That's Been Hiding,CAT-0018,2,19.22,In stock,8
+BKS-000488,Between the World and Me,CAT-0018,4,56.91,In stock,8
+BKS-000489,Being Mortal: Medicine and What Matters in the End,CAT-0018,4,55.06,In stock,8
+BKS-000490,"A Murder Over a Girl: Justice, Gender, Junior High",CAT-0018,3,13.2,In stock,8
+BKS-000491,32 Yolks,CAT-0015,2,53.63,In stock,8
+BKS-000492,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",CAT-0005,5,44.48,In stock,8
+BKS-000493,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,CAT-0029,3,12.08,In stock,7
+BKS-000494,Wildlife of New York: A Five-Borough Coloring Book,CAT-0008,2,22.14,In stock,7
+BKS-000495,What Happened on Beale Street (Secrets of the South Mysteries #2),CAT-0004,5,25.37,In stock,7
+BKS-000496,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,CAT-0020,2,46.33,In stock,7
+BKS-000497,Under the Tuscan Sun,CAT-0013,3,37.33,In stock,7
+BKS-000498,Toddlers Are A**holes: It's Not Your Fault,CAT-0040,1,25.55,In stock,7
+BKS-000499,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,CAT-0008,1,34.72,In stock,7
+BKS-000500,The Whale,CAT-0017,4,35.96,In stock,7
+BKS-000501,The Story of Art,CAT-0019,4,41.14,In stock,7
+BKS-000502,The Origin of Species,CAT-0026,4,10.01,In stock,7
+BKS-000503,The Great Gatsby,CAT-0008,4,36.05,In stock,7
+BKS-000504,The Good Girl,CAT-0008,3,49.03,In stock,7
+BKS-000505,The Glass Castle,CAT-0025,1,16.24,In stock,7
+BKS-000506,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,CAT-0035,1,39.55,In stock,7
+BKS-000507,The Drowning Girls,CAT-0025,3,35.67,In stock,7
+BKS-000508,The Constant Princess (The Tudor Court #1),CAT-0002,3,16.62,In stock,7
+BKS-000509,The Bourne Identity (Jason Bourne #1),CAT-0003,4,42.78,In stock,7
+BKS-000510,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),CAT-0004,5,52.3,In stock,7
+BKS-000511,The Art Book,CAT-0019,2,32.34,In stock,7
+BKS-000512,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,CAT-0008,4,33.17,In stock,7
+BKS-000513,Team of Rivals: The Political Genius of Abraham Lincoln,CAT-0025,5,20.12,In stock,7
+BKS-000514,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,CAT-0008,2,20.9,In stock,7
+BKS-000515,"Sit, Stay, Love",CAT-0016,3,20.9,In stock,7
+BKS-000516,Sister Dear,CAT-0003,4,40.2,In stock,7
+BKS-000517,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",CAT-0017,3,52.87,In stock,7
+BKS-000518,"Rich Dad, Poor Dad",CAT-0007,1,51.74,In stock,7
+BKS-000519,Raymie Nightingale,CAT-0017,2,34.41,In stock,7
+BKS-000520,Playing from the Heart,CAT-0017,1,32.38,In stock,7
+BKS-000521,Nightstruck: A Novel,CAT-0006,4,50.35,In stock,7
+BKS-000522,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",CAT-0015,5,11.38,In stock,7
+BKS-000523,Meternity,CAT-0036,3,43.58,In stock,7
+BKS-000524,Memoirs of a Geisha,CAT-0003,3,49.67,In stock,7
+BKS-000525,Like Never Before (Walker Family #2),CAT-0034,2,28.77,In stock,7
+BKS-000526,Life of Pi,CAT-0008,4,13.22,In stock,7
+BKS-000527,Leave This Song Behind: Teen Poetry at Its Best,CAT-0001,5,51.17,In stock,7
+BKS-000528,King's Folly (The Kinsman Chronicles #1),CAT-0024,5,39.61,In stock,7
+BKS-000529,John Adams,CAT-0025,4,57.43,In stock,7
+BKS-000530,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),CAT-0015,4,46.01,In stock,7
+BKS-000531,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,CAT-0015,2,28.25,In stock,7
+BKS-000532,Good in Bed (Cannie Shapiro #1),CAT-0025,5,37.05,In stock,7
+BKS-000533,"Fruits Basket, Vol. 7 (Fruits Basket #7)",CAT-0009,1,19.57,In stock,7
+BKS-000534,For the Love: Fighting for Grace in a World of Impossible Standards,CAT-0018,3,45.13,In stock,7
+BKS-000535,Finding God in the Ruins: How God Redeems Pain,CAT-0018,2,46.64,In stock,7
+BKS-000536,Every Heart a Doorway (Every Heart A Doorway #1),CAT-0024,5,12.16,In stock,7
+BKS-000537,Delivering the Truth (Quaker Midwife Mystery #1),CAT-0004,4,20.89,In stock,7
+BKS-000538,Counted With the Stars (Out from Egypt #1),CAT-0034,5,17.97,In stock,7
+BKS-000539,"Chronicles, Vol. 1",CAT-0010,2,52.6,In stock,7
+BKS-000540,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,CAT-0031,1,25.77,In stock,7
+BKS-000541,Benjamin Franklin: An American Life,CAT-0035,3,48.19,In stock,7
+BKS-000542,"At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",CAT-0021,5,29.93,In stock,7
+BKS-000543,A Summer In Europe,CAT-0013,2,44.34,In stock,7
+BKS-000544,A Short History of Nearly Everything,CAT-0005,5,52.4,In stock,7
+BKS-000545,A Gathering of Shadows (Shades of Magic #2),CAT-0024,4,44.81,In stock,7
+BKS-000546,The Sound Of Love,CAT-0008,5,57.84,In stock,6
+BKS-000547,The Rise and Fall of the Third Reich: A History of Nazi Germany,CAT-0005,2,39.67,In stock,6
+BKS-000548,The Perks of Being a Wallflower,CAT-0008,3,55.02,In stock,6
+BKS-000549,The Mysterious Affair at Styles (Hercule Poirot #1),CAT-0004,4,24.8,In stock,6
+BKS-000550,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,CAT-0018,4,59.45,In stock,6
+BKS-000551,The Makings of a Fatherless Child,CAT-0008,2,31.58,In stock,6
+BKS-000552,The Joy of Cooking,CAT-0025,4,43.27,In stock,6
+BKS-000553,The Invention of Wings,CAT-0002,1,37.34,In stock,6
+BKS-000554,The Hobbit (Middle-Earth Universe),CAT-0008,5,17.8,In stock,6
+BKS-000555,The Great Railway Bazaar,CAT-0013,1,30.54,In stock,6
+BKS-000556,The Golden Compass (His Dark Materials #1),CAT-0025,1,18.77,In stock,6
+BKS-000557,The God Delusion,CAT-0025,3,46.85,In stock,6
+BKS-000558,The Girl You Left Behind (The Girl You Left Behind #1),CAT-0041,1,15.79,In stock,6
+BKS-000559,The Fellowship of the Ring (The Lord of the Rings #1),CAT-0008,2,10.27,In stock,6
+BKS-000560,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),CAT-0001,5,15.42,In stock,6
+BKS-000561,The Barefoot Contessa Cookbook,CAT-0015,5,59.92,In stock,6
+BKS-000562,Tell the Wolves I'm Home,CAT-0006,2,50.96,In stock,6
+BKS-000563,Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,CAT-0008,3,30.6,In stock,6
+BKS-000564,Pride and Prejudice,CAT-0025,4,19.27,In stock,6
+BKS-000565,Musicophilia: Tales of Music and the Brain,CAT-0008,1,46.58,In stock,6
+BKS-000566,Mere Christianity,CAT-0025,3,48.51,In stock,6
+BKS-000567,Me Before You (Me Before You #1),CAT-0003,1,19.02,In stock,6
+BKS-000568,In the Woods (Dublin Murder Squad #1),CAT-0004,2,38.38,In stock,6
+BKS-000569,In Cold Blood,CAT-0018,4,49.98,In stock,6
+BKS-000570,How to Stop Worrying and Start Living,CAT-0029,5,46.49,In stock,6
+BKS-000571,Give It Back,CAT-0014,2,18.32,In stock,6
+BKS-000572,"Girl, Interrupted",CAT-0018,3,42.14,In stock,6
+BKS-000573,Fun Home: A Family Tragicomic,CAT-0025,4,56.59,In stock,6
+BKS-000574,"Fruits Basket, Vol. 6 (Fruits Basket #6)",CAT-0009,4,20.96,In stock,6
+BKS-000575,Deception Point,CAT-0003,4,40.32,In stock,6
+BKS-000576,"Death Note, Vol. 6: Give-and-Take (Death Note #6)",CAT-0009,3,36.39,In stock,6
+BKS-000577,Catherine the Great: Portrait of a Woman,CAT-0005,4,58.55,In stock,6
+BKS-000578,Better Homes and Gardens New Cook Book,CAT-0015,3,39.61,In stock,6
+BKS-000579,An Unquiet Mind: A Memoir of Moods and Madness,CAT-0039,3,21.3,In stock,6
+BKS-000580,A Year in Provence (Provence #1),CAT-0013,4,56.88,In stock,6
+BKS-000581,World Without End (The Pillars of the Earth #2),CAT-0002,4,32.97,In stock,5
+BKS-000582,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",CAT-0006,4,47.31,In stock,5
+BKS-000583,Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,CAT-0018,2,48.67,In stock,5
+BKS-000584,Where She Went (If I Stay #2),CAT-0006,4,41.73,In stock,5
+BKS-000585,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,CAT-0008,4,53.68,In stock,5
+BKS-000586,Two Summers,CAT-0006,1,14.64,In stock,5
+BKS-000587,This Is Your Brain on Music: The Science of a Human Obsession,CAT-0010,1,38.4,In stock,5
+BKS-000588,The Secret Garden,CAT-0045,4,15.08,In stock,5
+BKS-000589,The Raven King (The Raven Cycle #4),CAT-0025,2,30.57,In stock,5
+BKS-000590,The Raven Boys (The Raven Cycle #1),CAT-0024,4,57.74,In stock,5
+BKS-000591,The Power Greens Cookbook: 140 Delicious Superfood Recipes,CAT-0015,5,11.05,In stock,5
+BKS-000592,The Metamorphosis,CAT-0045,1,28.58,In stock,5
+BKS-000593,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,CAT-0005,5,42.91,In stock,5
+BKS-000594,The Little Paris Bookshop,CAT-0003,3,24.73,In stock,5
+BKS-000595,The Hiding Place,CAT-0005,4,55.91,In stock,5
+BKS-000596,The Grand Design,CAT-0026,3,13.76,In stock,5
+BKS-000597,The Firm,CAT-0003,3,45.56,In stock,5
+BKS-000598,The Fault in Our Stars,CAT-0008,1,47.22,In stock,5
+BKS-000599,The False Prince (The Ascendance Trilogy #1),CAT-0024,5,56,In stock,5
+BKS-000600,The Expatriates,CAT-0003,2,44.58,In stock,5
+BKS-000601,The Dream Thieves (The Raven Cycle #2),CAT-0008,1,34.5,In stock,5
+BKS-000602,The Darkest Corners,CAT-0006,5,11.33,In stock,5
+BKS-000603,The Crossover,CAT-0001,4,38.77,In stock,5
+BKS-000604,The 5th Wave (The 5th Wave #1),CAT-0008,2,11.83,In stock,5
+BKS-000605,Tell the Wind and Fire,CAT-0024,3,45.51,In stock,5
+BKS-000606,Tell Me Three Things,CAT-0006,1,41.81,In stock,5
+BKS-000607,Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,CAT-0018,4,25.15,In stock,5
+BKS-000608,Siddhartha,CAT-0003,5,34.22,In stock,5
+BKS-000609,Shiver (The Wolves of Mercy Falls #1),CAT-0008,5,16.23,In stock,5
+BKS-000610,Remember Me?,CAT-0008,3,11.48,In stock,5
+BKS-000611,Red Dragon (Hannibal Lecter #1),CAT-0028,3,23.37,In stock,5
+BKS-000612,Peak: Secrets from the New Science of Expertise,CAT-0026,2,16.28,In stock,5
+BKS-000613,My Mother Was Nuts,CAT-0018,4,31.63,In stock,5
+BKS-000614,Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,CAT-0015,5,24.91,In stock,5
+BKS-000615,Maybe Something Beautiful: How Art Transformed a Neighborhood,CAT-0017,1,22.54,In stock,5
+BKS-000616,Lola and the Boy Next Door (Anna and the French Kiss #2),CAT-0006,4,23.63,In stock,5
+BKS-000617,Logan Kade (Fallen Crest High #5.5),CAT-0046,2,13.12,In stock,5
+BKS-000618,Last One Home (New Beginnings #1),CAT-0003,3,59.98,In stock,5
+BKS-000619,Killing Floor (Jack Reacher #1),CAT-0014,4,31.49,In stock,5
+BKS-000620,Kill the Boy Band,CAT-0006,5,15.52,In stock,5
+BKS-000621,Isla and the Happily Ever After (Anna and the French Kiss #3),CAT-0006,5,48.13,In stock,5
+BKS-000622,If I Stay (If I Stay #1),CAT-0008,5,38.13,In stock,5
+BKS-000623,I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),CAT-0008,2,36.55,In stock,5
+BKS-000624,Harry Potter and the Deathly Hallows (Harry Potter #7),CAT-0008,1,23.32,In stock,5
+BKS-000625,"Fruits Basket, Vol. 5 (Fruits Basket #5)",CAT-0009,1,16.33,In stock,5
+BKS-000626,Foundation (Foundation (Publication Order) #1),CAT-0011,1,32.42,In stock,5
+BKS-000627,Fool Me Once,CAT-0008,1,16.96,In stock,5
+BKS-000628,Find Her (Detective D.D. Warren #8),CAT-0025,1,22.37,In stock,5
+BKS-000629,Evicted: Poverty and Profit in the American City,CAT-0025,1,42.27,In stock,5
+BKS-000630,Drama,CAT-0008,2,38.7,In stock,5
+BKS-000631,Dracula the Un-Dead,CAT-0028,5,35.63,In stock,5
+BKS-000632,Digital Fortress,CAT-0003,5,58,In stock,5
+BKS-000633,"Death Note, Vol. 5: Whiteout (Death Note #5)",CAT-0009,1,52.41,In stock,5
+BKS-000634,"Data, A Love Story: How I Gamed Online Dating to Meet My Match",CAT-0018,3,32.35,In stock,5
+BKS-000635,Critique of Pure Reason,CAT-0021,1,20.75,In stock,5
+BKS-000636,Booked,CAT-0001,5,17.49,In stock,5
+BKS-000637,"Blue Lily, Lily Blue (The Raven Cycle #3)",CAT-0008,5,34.13,In stock,5
+BKS-000638,Approval Junkie: Adventures in Caring Too Much,CAT-0033,5,58.81,In stock,5
+BKS-000639,An Abundance of Katherines,CAT-0006,5,10,In stock,5
+BKS-000640,America's War for the Greater Middle East: A Military History,CAT-0005,2,51.22,In stock,5
+BKS-000641,Alight (The Generations Trilogy #2),CAT-0008,4,58.59,In stock,5
+BKS-000642,A Girl's Guide to Moving On (New Beginnings #2),CAT-0016,1,31.3,In stock,5
+BKS-000643,A Game of Thrones (A Song of Ice and Fire #1),CAT-0025,2,46.42,In stock,5
+BKS-000644,A Feast for Crows (A Song of Ice and Fire #4),CAT-0024,4,17.21,In stock,5
+BKS-000645,A Clash of Kings (A Song of Ice and Fire #2),CAT-0025,3,10.79,In stock,5
+BKS-000646,Vogue Colors A to Z: A Fashion Coloring Book,CAT-0008,4,52.35,In stock,4
+BKS-000647,The Shining (The Shining #1),CAT-0008,3,27.88,In stock,4
+BKS-000648,The Pilgrim's Progress,CAT-0045,2,50.26,In stock,4
+BKS-000649,The Perfect Play (Play by Play #1),CAT-0016,3,59.99,In stock,4
+BKS-000650,The Passion of Dolssa,CAT-0002,5,28.32,In stock,4
+BKS-000651,The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,CAT-0018,3,38.71,In stock,4
+BKS-000652,The Hunger Games (The Hunger Games #1),CAT-0008,5,29.85,In stock,4
+BKS-000653,The Hound of the Baskervilles (Sherlock Holmes #5),CAT-0045,2,14.82,In stock,4
+BKS-000654,The Gunning of America: Business and the Making of American Gun Culture,CAT-0018,4,16.81,In stock,4
+BKS-000655,The Geography of Bliss: One Grump's Search for the Happiest Places in the World,CAT-0018,2,28.23,In stock,4
+BKS-000656,The Demonists (Demonist #1),CAT-0024,2,52.11,In stock,4
+BKS-000657,"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",CAT-0009,2,27.88,In stock,4
+BKS-000658,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),CAT-0014,3,59.71,In stock,4
+BKS-000659,The Beast (Black Dagger Brotherhood #14),CAT-0024,5,46.08,In stock,4
+BKS-000660,Some Women,CAT-0036,5,13.73,In stock,4
+BKS-000661,Shopaholic Ties the Knot (Shopaholic #3),CAT-0036,5,48.39,In stock,4
+BKS-000662,Paper and Fire (The Great Library #2),CAT-0024,5,49.45,In stock,4
+BKS-000663,Outlander (Outlander #1),CAT-0008,5,19.67,In stock,4
+BKS-000664,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",CAT-0010,3,12.36,In stock,4
+BKS-000665,No One Here Gets Out Alive,CAT-0010,5,20.02,In stock,4
+BKS-000666,Night Shift (Night Shift #1-20),CAT-0028,4,12.75,In stock,4
+BKS-000667,Needful Things,CAT-0028,4,47.51,In stock,4
+BKS-000668,Mockingjay (The Hunger Games #3),CAT-0008,4,20.44,In stock,4
+BKS-000669,Misery,CAT-0028,2,34.79,In stock,4
+BKS-000670,Little Women (Little Women #1),CAT-0045,4,28.07,In stock,4
+BKS-000671,It,CAT-0028,3,25.01,In stock,4
+BKS-000672,Harry Potter and the Sorcerer's Stone (Harry Potter #1),CAT-0008,3,13.9,In stock,4
+BKS-000673,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),CAT-0006,4,24.17,In stock,4
+BKS-000674,Harry Potter and the Order of the Phoenix (Harry Potter #5),CAT-0024,4,31.63,In stock,4
+BKS-000675,Harry Potter and the Half-Blood Prince (Harry Potter #6),CAT-0024,5,48.75,In stock,4
+BKS-000676,Harry Potter and the Chamber of Secrets (Harry Potter #2),CAT-0024,1,14.74,In stock,4
+BKS-000677,Gone with the Wind,CAT-0045,3,32.49,In stock,4
+BKS-000678,God Is Not Great: How Religion Poisons Everything,CAT-0018,1,27.8,In stock,4
+BKS-000679,Girl With a Pearl Earring,CAT-0002,1,26.77,In stock,4
+BKS-000680,"Fruits Basket, Vol. 4 (Fruits Basket #4)",CAT-0009,4,50.44,In stock,4
+BKS-000681,Far From True (Promise Falls Trilogy #2),CAT-0014,2,34.93,In stock,4
+BKS-000682,Dark Lover (Black Dagger Brotherhood #1),CAT-0016,1,12.87,In stock,4
+BKS-000683,Confessions of a Shopaholic (Shopaholic #1),CAT-0008,2,48.94,In stock,4
+BKS-000684,Changing the Game (Play by Play #2),CAT-0016,3,13.38,In stock,4
+BKS-000685,Candide,CAT-0045,3,58.63,In stock,4
+BKS-000686,Can You Keep a Secret?,CAT-0036,1,21.94,In stock,4
+BKS-000687,Atlas Shrugged,CAT-0003,5,26.58,In stock,4
+BKS-000688,Animal Farm,CAT-0045,3,57.22,In stock,4
+BKS-000689,A Walk to Remember,CAT-0016,1,56.43,In stock,4
+BKS-000690,A New Earth: Awakening to Your Life's Purpose,CAT-0020,5,55.65,In stock,4
+BKS-000691,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",CAT-0030,1,27.62,In stock,4
+BKS-000692,'Salem's Lot,CAT-0028,4,49.56,In stock,4
+BKS-000693,Zero History (Blue Ant #3),CAT-0008,1,34.77,In stock,3
+BKS-000694,Wuthering Heights,CAT-0045,3,17.73,In stock,3
+BKS-000695,World War Z: An Oral History of the Zombie War,CAT-0008,1,21.8,In stock,3
+BKS-000696,Wild: From Lost to Found on the Pacific Crest Trail,CAT-0008,3,46.02,In stock,3
+BKS-000697,"Where'd You Go, Bernadette",CAT-0008,1,18.13,In stock,3
+BKS-000698,When You Are Engulfed in Flames,CAT-0040,5,30.89,In stock,3
+BKS-000699,We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,CAT-0018,3,31.95,In stock,3
+BKS-000700,We Are All Completely Beside Ourselves,CAT-0023,1,24.04,In stock,3
+BKS-000701,Walk the Edge (Thunder Road #2),CAT-0006,3,32.36,In stock,3
+BKS-000702,Voyager (Outlander #3),CAT-0002,5,21.07,In stock,3
+BKS-000703,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,CAT-0018,3,50.66,In stock,3
+BKS-000704,Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,CAT-0015,2,13.66,In stock,3
+BKS-000705,"Unstuffed: Decluttering Your Home, Mind, and Soul",CAT-0018,1,58.09,In stock,3
+BKS-000706,Under the Banner of Heaven: A Story of Violent Faith,CAT-0018,1,30,In stock,3
+BKS-000707,Two Boys Kissing,CAT-0006,2,32.74,In stock,3
+BKS-000708,Twilight (Twilight #1),CAT-0008,2,41.93,In stock,3
+BKS-000709,Twenties Girl,CAT-0036,2,42.8,In stock,3
+BKS-000710,"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",CAT-0018,1,53.51,In stock,3
+BKS-000711,Three-Martini Lunch,CAT-0003,3,23.21,In stock,3
+BKS-000712,"Thinking, Fast and Slow",CAT-0039,1,21.14,In stock,3
+BKS-000713,The Wild Robot,CAT-0017,3,56.07,In stock,3
+BKS-000714,"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",CAT-0009,3,14.41,In stock,3
+BKS-000715,The Undomestic Goddess,CAT-0036,4,45.75,In stock,3
+BKS-000716,The Travelers,CAT-0014,1,15.77,In stock,3
+BKS-000717,The Tipping Point: How Little Things Can Make a Big Difference,CAT-0025,2,10.02,In stock,3
+BKS-000718,The Thing About Jellyfish,CAT-0017,1,48.77,In stock,3
+BKS-000719,The Stand,CAT-0028,2,57.86,In stock,3
+BKS-000720,The Smitten Kitchen Cookbook,CAT-0015,1,23.59,In stock,3
+BKS-000721,The Silkworm (Cormoran Strike #2),CAT-0004,5,23.05,In stock,3
+BKS-000722,"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",CAT-0009,5,55.55,In stock,3
+BKS-000723,The Rose & the Dagger (The Wrath and the Dawn #2),CAT-0024,4,58.64,In stock,3
+BKS-000724,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),CAT-0013,1,23.21,In stock,3
+BKS-000725,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),CAT-0035,3,42.57,In stock,3
+BKS-000726,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),CAT-0011,1,10.92,In stock,3
+BKS-000727,The Rest Is Noise: Listening to the Twentieth Century,CAT-0025,1,34.77,In stock,3
+BKS-000728,The Red Tent,CAT-0002,5,35.66,In stock,3
+BKS-000729,The Purpose Driven Life: What on Earth Am I Here for?,CAT-0025,3,37.19,In stock,3
+BKS-000730,The Purest Hook (Second Circle Tattoos #3),CAT-0016,1,12.25,In stock,3
+BKS-000731,The Picture of Dorian Gray,CAT-0045,2,29.7,In stock,3
+BKS-000732,The Paris Wife,CAT-0008,3,36.8,In stock,3
+BKS-000733,The Obsession,CAT-0016,1,45.43,In stock,3
+BKS-000734,The Nightingale,CAT-0003,4,26.26,In stock,3
+BKS-000735,The New Guy (and Other Senior Year Distractions),CAT-0006,3,44.92,In stock,3
+BKS-000736,The Nanny Diaries (Nanny #1),CAT-0036,5,52.53,In stock,3
+BKS-000737,The Name of God is Mercy,CAT-0018,2,37.25,In stock,3
+BKS-000738,The Maze Runner (The Maze Runner #1),CAT-0008,1,20.93,In stock,3
+BKS-000739,The Lover's Dictionary,CAT-0008,2,58.09,In stock,3
+BKS-000740,The Lonely Ones,CAT-0017,5,43.59,In stock,3
+BKS-000741,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,CAT-0007,3,33.92,In stock,3
+BKS-000742,The Last Painting of Sara de Vos,CAT-0002,2,55.55,In stock,3
+BKS-000743,"The Land of 10,000 Madonnas",CAT-0006,4,29.64,In stock,3
+BKS-000744,The Infinities,CAT-0003,1,27.41,In stock,3
+BKS-000745,The Husband's Secret,CAT-0003,5,52.51,In stock,3
+BKS-000746,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),CAT-0025,3,47.8,In stock,3
+BKS-000747,The Guns of August,CAT-0005,2,14.54,In stock,3
+BKS-000748,The Guernsey Literary and Potato Peel Pie Society,CAT-0002,1,49.53,In stock,3
+BKS-000749,The Goldfinch,CAT-0008,3,43.58,In stock,3
+BKS-000750,The Giver (The Giver Quartet #1),CAT-0008,1,12.3,In stock,3
+BKS-000751,The Girl with All the Gifts,CAT-0028,3,49.47,In stock,3
+BKS-000752,The Girl Who Played with Fire (Millennium Trilogy #2),CAT-0008,2,22.14,In stock,3
+BKS-000753,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),CAT-0025,1,57.48,In stock,3
+BKS-000754,The Exiled,CAT-0004,3,43.45,In stock,3
+BKS-000755,"The End of Faith: Religion, Terror, and the Future of Reason",CAT-0025,4,22.13,In stock,3
+BKS-000756,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",CAT-0026,4,13.03,In stock,3
+BKS-000757,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",CAT-0026,5,57.35,In stock,3
+BKS-000758,The Devil Wears Prada (The Devil Wears Prada #1),CAT-0036,1,44.29,In stock,3
+BKS-000759,The Demon-Haunted World: Science as a Candle in the Dark,CAT-0008,4,52.25,In stock,3
+BKS-000760,The Day the Crayons Came Home (Crayons),CAT-0017,5,26.33,In stock,3
+BKS-000761,The Da Vinci Code (Robert Langdon #2),CAT-0003,2,22.96,In stock,3
+BKS-000762,The Cuckoo's Calling (Cormoran Strike #1),CAT-0004,1,19.21,In stock,3
+BKS-000763,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),CAT-0045,4,26.78,In stock,3
+BKS-000764,The Complete Poems,CAT-0025,5,41.32,In stock,3
+BKS-000765,The Catcher in the Rye,CAT-0025,1,24.55,In stock,3
+BKS-000766,The Cat in the Hat (Beginner Books B-1),CAT-0017,2,16.26,In stock,3
+BKS-000767,The Case for Christ (Cases for Christianity),CAT-0025,1,47.84,In stock,3
+BKS-000768,The Book Thief,CAT-0008,2,53.49,In stock,3
+BKS-000769,The Book of Basketball: The NBA According to The Sports Guy,CAT-0047,5,44.84,In stock,3
+BKS-000770,The Blind Side: Evolution of a Game,CAT-0025,5,53.71,In stock,3
+BKS-000771,The Autobiography of Malcolm X,CAT-0008,2,23.43,In stock,3
+BKS-000772,"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",CAT-0015,3,34.32,In stock,3
+BKS-000773,The Art of Fielding,CAT-0003,1,22.1,In stock,3
+BKS-000774,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",CAT-0026,2,25.83,In stock,3
+BKS-000775,Stiff: The Curious Lives of Human Cadavers,CAT-0018,3,36.74,In stock,3
+BKS-000776,Spilled Milk: Based on a True Story,CAT-0018,1,49.51,In stock,3
+BKS-000777,Something Borrowed (Darcy & Rachel #1),CAT-0036,5,48.96,In stock,3
+BKS-000778,Something Blue (Darcy & Rachel #2),CAT-0036,1,54.62,In stock,3
+BKS-000779,Soldier (Talon #3),CAT-0024,2,24.72,In stock,3
+BKS-000780,Shopaholic & Baby (Shopaholic #5),CAT-0008,2,46.45,In stock,3
+BKS-000781,Seven Days in the Art World,CAT-0025,2,52.33,In stock,3
+BKS-000782,Seven Brief Lessons on Physics,CAT-0026,4,30.6,In stock,3
+BKS-000783,Scarlet (The Lunar Chronicles #2),CAT-0006,4,14.57,In stock,3
+BKS-000784,Sarah's Key,CAT-0025,1,46.29,In stock,3
+BKS-000785,"Saga, Volume 3 (Saga (Collected Editions) #3)",CAT-0009,5,21.57,In stock,3
+BKS-000786,Running with Scissors,CAT-0033,4,12.91,In stock,3
+BKS-000787,Rogue Lawyer (Rogue Lawyer #1),CAT-0025,3,50.11,In stock,3
+BKS-000788,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",CAT-0018,4,41.67,In stock,3
+BKS-000789,Rework,CAT-0007,2,44.88,In stock,3
+BKS-000790,Reservations for Two,CAT-0016,3,11.1,In stock,3
+BKS-000791,Red: The True Story of Red Riding Hood,CAT-0017,3,28.54,In stock,3
+BKS-000792,Ready Player One,CAT-0011,4,19.07,In stock,3
+BKS-000793,Quiet: The Power of Introverts in a World That Can't Stop Talking,CAT-0008,1,43.55,In stock,3
+BKS-000794,Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),CAT-0009,3,43.63,In stock,3
+BKS-000795,Persepolis: The Story of a Childhood (Persepolis #1-2),CAT-0009,1,39.13,In stock,3
+BKS-000796,Packing for Mars: The Curious Science of Life in the Void,CAT-0008,2,56.68,In stock,3
+BKS-000797,Outliers: The Story of Success,CAT-0018,1,14.16,In stock,3
+BKS-000798,Original Fake,CAT-0009,3,31.45,In stock,3
+BKS-000799,Orange Is the New Black,CAT-0008,2,24.61,In stock,3
+BKS-000800,One for the Money (Stephanie Plum #1),CAT-0008,2,32.87,In stock,3
+BKS-000801,Notes from a Small Island (Notes From a Small Island #1),CAT-0018,1,40.17,In stock,3
+BKS-000802,Night (The Night Trilogy #1),CAT-0018,1,13.51,In stock,3
+BKS-000803,Neither Here nor There: Travels in Europe,CAT-0013,3,38.95,In stock,3
+BKS-000804,Naked,CAT-0040,3,31.69,In stock,3
+BKS-000805,Morning Star (Red Rising #3),CAT-0008,1,29.4,In stock,3
+BKS-000806,"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",CAT-0018,1,57.83,In stock,3
+BKS-000807,Midnight Riot (Peter Grant/ Rivers of London - books #1),CAT-0024,2,55.46,In stock,3
+BKS-000808,Me Talk Pretty One Day,CAT-0033,2,57.6,In stock,3
+BKS-000809,Manuscript Found in Accra,CAT-0025,2,34.98,In stock,3
+BKS-000810,Lust & Wonder,CAT-0033,2,11.87,In stock,3
+BKS-000811,Lila (Gilead #3),CAT-0003,3,12.47,In stock,3
+BKS-000812,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",CAT-0011,2,33.26,In stock,3
+BKS-000813,Life Without a Recipe,CAT-0033,5,59.04,In stock,3
+BKS-000814,Life After Life,CAT-0008,2,26.13,In stock,3
+BKS-000815,Letter to a Christian Nation,CAT-0018,1,22.2,In stock,3
+BKS-000816,Let's Pretend This Never Happened: A Mostly True Memoir,CAT-0018,1,45.11,In stock,3
+BKS-000817,Legend (Legend #1),CAT-0006,4,43.69,In stock,3
+BKS-000818,"Lean In: Women, Work, and the Will to Lead",CAT-0008,1,25.02,In stock,3
+BKS-000819,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",CAT-0040,5,55.5,In stock,3
+BKS-000820,Lady Renegades (Rebel Belle #3),CAT-0006,5,53.04,In stock,3
+BKS-000821,Jurassic Park (Jurassic Park #1),CAT-0003,1,44.97,In stock,3
+BKS-000822,It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,CAT-0018,1,42.38,In stock,3
+BKS-000823,Is Everyone Hanging Out Without Me? (And Other Concerns),CAT-0008,3,20.11,In stock,3
+BKS-000824,Into the Wild,CAT-0018,5,56.7,In stock,3
+BKS-000825,Inferno (Robert Langdon #4),CAT-0003,5,41,In stock,3
+BKS-000826,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",CAT-0018,3,28.85,In stock,3
+BKS-000827,If I Run (If I Run #1),CAT-0034,4,49.97,In stock,3
+BKS-000828,I've Got Your Number,CAT-0036,1,19.69,In stock,3
+BKS-000829,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,CAT-0018,2,28.88,In stock,3
+BKS-000830,Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,CAT-0015,3,33.14,In stock,3
+BKS-000831,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",CAT-0005,2,43.7,In stock,3
+BKS-000832,House of Leaves,CAT-0028,1,54.89,In stock,3
+BKS-000833,Horrible Bear!,CAT-0017,2,37.52,In stock,3
+BKS-000834,Holidays on Ice,CAT-0040,2,51.07,In stock,3
+BKS-000835,Heir to the Sky,CAT-0024,4,44.07,In stock,3
+BKS-000836,Green Eggs and Ham (Beginner Books B-16),CAT-0017,4,10.79,In stock,3
+BKS-000837,"Grayson, Vol 3: Nemesis (Grayson #3)",CAT-0009,1,42.72,In stock,3
+BKS-000838,Gratitude,CAT-0018,5,26.66,In stock,3
+BKS-000839,Gone Girl,CAT-0008,5,37.6,In stock,3
+BKS-000840,Golden (Heart of Dread #3),CAT-0006,4,42.21,In stock,3
+BKS-000841,Girl in the Blue Coat,CAT-0002,2,46.83,In stock,3
+BKS-000842,"Fruits Basket, Vol. 3 (Fruits Basket #3)",CAT-0009,2,45.17,In stock,3
+BKS-000843,"Friday Night Lights: A Town, a Team, and a Dream",CAT-0047,3,51.22,In stock,3
+BKS-000844,Fire Bound (Sea Haven/Sisters of the Heart #5),CAT-0025,4,21.28,In stock,3
+BKS-000845,Fifty Shades Freed (Fifty Shades #3),CAT-0048,5,15.36,In stock,3
+BKS-000846,Fellside,CAT-0008,1,38.62,In stock,3
+BKS-000847,Extreme Prey (Lucas Davenport #26),CAT-0004,3,25.4,In stock,3
+BKS-000848,Eragon (The Inheritance Cycle #1),CAT-0024,3,43.87,In stock,3
+BKS-000849,Eclipse (Twilight #3),CAT-0008,1,18.74,In stock,3
+BKS-000850,Dune (Dune #1),CAT-0011,1,54.86,In stock,3
+BKS-000851,Dracula,CAT-0008,3,52.62,In stock,3
+BKS-000852,Do Androids Dream of Electric Sheep? (Blade Runner #1),CAT-0011,1,51.48,In stock,3
+BKS-000853,Disrupted: My Misadventure in the Start-Up Bubble,CAT-0018,5,15.28,In stock,3
+BKS-000854,Dead Wake: The Last Crossing of the Lusitania,CAT-0008,5,39.24,In stock,3
+BKS-000855,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",CAT-0008,1,17.81,In stock,3
+BKS-000856,Darkfever (Fever #1),CAT-0024,1,56.02,In stock,3
+BKS-000857,Dark Places,CAT-0008,5,23.9,In stock,3
+BKS-000858,Crazy Rich Asians (Crazy Rich Asians #1),CAT-0003,5,49.13,In stock,3
+BKS-000859,Counting Thyme,CAT-0017,1,10.62,In stock,3
+BKS-000860,Cosmos,CAT-0025,2,36.17,In stock,3
+BKS-000861,Civilization and Its Discontents,CAT-0039,2,59.95,In stock,3
+BKS-000862,Cinder (The Lunar Chronicles #1),CAT-0006,1,26.09,In stock,3
+BKS-000863,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,CAT-0049,2,37.35,In stock,3
+BKS-000864,Career of Evil (Cormoran Strike #3),CAT-0004,2,24.72,In stock,3
+BKS-000865,Breaking Dawn (Twilight #4),CAT-0008,5,35.28,In stock,3
+BKS-000866,Brave Enough,CAT-0018,5,51.32,In stock,3
+BKS-000867,Boy Meets Boy,CAT-0006,3,21.12,In stock,3
+BKS-000868,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",CAT-0018,2,27.35,In stock,3
+BKS-000869,Blink: The Power of Thinking Without Thinking,CAT-0018,5,21.74,In stock,3
+BKS-000870,Black Flags: The Rise of ISIS,CAT-0018,1,40.87,In stock,3
+BKS-000871,"Black Butler, Vol. 1 (Black Butler #1)",CAT-0009,1,49.31,In stock,3
+BKS-000872,Big Little Lies,CAT-0003,1,22.11,In stock,3
+BKS-000873,Between Shades of Gray,CAT-0002,5,20.79,In stock,3
+BKS-000874,Best of My Love (Fool's Gold #20),CAT-0016,2,27.41,In stock,3
+BKS-000875,Beowulf,CAT-0045,2,38.35,In stock,3
+BKS-000876,Beautiful Creatures (Caster Chronicles #1),CAT-0008,5,21.55,In stock,3
+BKS-000877,Awkward,CAT-0009,2,38.02,In stock,3
+BKS-000878,Ash,CAT-0024,4,22.06,In stock,3
+BKS-000879,Are We There Yet?,CAT-0017,3,10.66,In stock,3
+BKS-000880,Are We Smart Enough to Know How Smart Animals Are?,CAT-0018,1,56.58,In stock,3
+BKS-000881,Annie on My Mind,CAT-0006,5,36.83,In stock,3
+BKS-000882,And Then There Were None,CAT-0045,2,35.01,In stock,3
+BKS-000883,A Walk in the Woods: Rediscovering America on the Appalachian Trail,CAT-0018,4,30.48,In stock,3
+BKS-000884,A Visit from the Goon Squad,CAT-0008,5,14.08,In stock,3
+BKS-000885,A Storm of Swords (A Song of Ice and Fire #3),CAT-0024,2,31.22,In stock,3
+BKS-000886,A Heartbreaking Work of Staggering Genius,CAT-0033,5,54.29,In stock,3
+BKS-000887,8 Keys to Mental Health Through Exercise,CAT-0039,1,31.04,In stock,3
+BKS-000888,#GIRLBOSS,CAT-0025,1,50.96,In stock,3
+BKS-000889,"The Suffragettes (Little Black Classics, #96)",CAT-0018,2,11.89,In stock,2
+BKS-000890,The Sense of an Ending,CAT-0025,3,31.38,In stock,2
+BKS-000891,"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",CAT-0009,1,54.81,In stock,2
+BKS-000892,The Course of Love,CAT-0003,3,16.78,In stock,2
+BKS-000893,Sugar Rush (Offensive Line #2),CAT-0047,1,24.42,In stock,2
+BKS-000894,"Saga, Volume 2 (Saga (Collected Editions) #2)",CAT-0009,3,11.75,In stock,2
+BKS-000895,"Run, Spot, Run: The Ethics of Keeping Pets",CAT-0021,1,20.02,In stock,2
+BKS-000896,New Moon (Twilight #2),CAT-0006,4,12.86,In stock,2
+BKS-000897,Life,CAT-0010,5,31.58,In stock,2
+BKS-000898,Kindle Paperwhite User's Guide,CAT-0018,3,34,In stock,2
+BKS-000899,H is for Hawk,CAT-0018,5,57.42,In stock,2
+BKS-000900,Girl Online On Tour (Girl Online #2),CAT-0006,1,53.47,In stock,2
+BKS-000901,"Fruits Basket, Vol. 2 (Fruits Basket #2)",CAT-0009,5,11.64,In stock,2
+BKS-000902,Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),CAT-0017,4,52.88,In stock,2
+BKS-000903,"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",CAT-0009,4,18.51,In stock,1
+BKS-000904,While You Were Mine,CAT-0002,5,41.32,In stock,1
+BKS-000905,Where Lightning Strikes (Bleeding Stars #3),CAT-0016,3,39.77,In stock,1
+BKS-000906,When I'm Gone,CAT-0003,3,51.96,In stock,1
+BKS-000907,Ways of Seeing,CAT-0019,5,39.51,In stock,1
+BKS-000908,"Vampire Knight, Vol. 1 (Vampire Knight #1)",CAT-0050,1,15.4,In stock,1
+BKS-000909,Vampire Girl (Vampire Girl #1),CAT-0024,2,53.82,In stock,1
+BKS-000910,Twenty Love Poems and a Song of Despair,CAT-0001,4,30.95,In stock,1
+BKS-000911,Travels with Charley: In Search of America,CAT-0018,5,57.82,In stock,1
+BKS-000912,Three Wishes (River of Time: California #1),CAT-0011,2,44.18,In stock,1
+BKS-000913,This One Moment (Pushing Limits #1),CAT-0016,1,48.71,In stock,1
+BKS-000914,The Zombie Room,CAT-0008,5,19.69,In stock,1
+BKS-000915,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",CAT-0009,2,36.52,In stock,1
+BKS-000916,The Tumor,CAT-0018,5,41.56,In stock,1
+BKS-000917,The Story of Hong Gildong,CAT-0045,4,43.19,In stock,1
+BKS-000918,The Silent Wife,CAT-0003,5,12.34,In stock,1
+BKS-000919,The Silent Twin (Detective Jennifer Knight #3),CAT-0024,3,36.25,In stock,1
+BKS-000920,The Selfish Gene,CAT-0026,1,29.45,In stock,1
+BKS-000921,The Secret Healer,CAT-0002,3,34.56,In stock,1
+BKS-000922,"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",CAT-0009,3,54.12,In stock,1
+BKS-000923,The Republic,CAT-0025,3,33.78,In stock,1
+BKS-000924,The Odyssey,CAT-0025,3,29.64,In stock,1
+BKS-000925,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),CAT-0004,4,57.7,In stock,1
+BKS-000926,The Nicomachean Ethics,CAT-0021,1,36.34,In stock,1
+BKS-000927,The Name of the Wind (The Kingkiller Chronicle #1),CAT-0008,3,50.59,In stock,1
+BKS-000928,The Mirror & the Maze (The Wrath and the Dawn #1.5),CAT-0024,1,29.38,In stock,1
+BKS-000929,The Little Prince,CAT-0045,2,45.42,In stock,1
+BKS-000930,The Light of the Fireflies,CAT-0025,1,54.43,In stock,1
+BKS-000931,The Last Girl (The Dominion Trilogy #1),CAT-0011,2,36.26,In stock,1
+BKS-000932,The Iliad,CAT-0025,1,16.16,In stock,1
+BKS-000933,The Hook Up (Game On #1),CAT-0022,5,36.29,In stock,1
+BKS-000934,The Haters,CAT-0006,5,27.89,In stock,1
+BKS-000935,The Girl You Lost,CAT-0004,5,12.29,In stock,1
+BKS-000936,The Girl In The Ice (DCI Erika Foster #1),CAT-0004,3,15.85,In stock,1
+BKS-000937,The End of the Jesus Era (An Investigation #1),CAT-0018,1,14.4,In stock,1
+BKS-000938,The Edge of Reason (Bridget Jones #2),CAT-0036,4,19.18,In stock,1
+BKS-000939,The Complete Maus (Maus #1-2),CAT-0009,3,10.64,In stock,1
+BKS-000940,The Communist Manifesto,CAT-0025,3,14.76,In stock,1
+BKS-000941,The Bhagavad Gita,CAT-0030,3,57.49,In stock,1
+BKS-000942,The Bette Davis Club,CAT-0003,3,30.66,In stock,1
+BKS-000943,The Art of Not Breathing,CAT-0006,4,40.83,In stock,1
+BKS-000944,Taking Shots (Assassins #1),CAT-0008,2,18.88,In stock,1
+BKS-000945,Starlark,CAT-0002,3,25.83,In stock,1
+BKS-000946,"Skip Beat!, Vol. 01 (Skip Beat! #1)",CAT-0009,3,42.12,In stock,1
+BKS-000947,Sister Sable (The Mad Queen #1),CAT-0024,3,13.33,In stock,1
+BKS-000948,Shatter Me (Shatter Me #1),CAT-0008,1,42.4,In stock,1
+BKS-000949,Shameless,CAT-0022,3,58.35,In stock,1
+BKS-000950,Shadow Rites (Jane Yellowrock #10),CAT-0024,4,21.72,In stock,1
+BKS-000951,Settling the Score (The Summer Games #1),CAT-0047,2,44.91,In stock,1
+BKS-000952,Sense and Sensibility,CAT-0045,1,37.46,In stock,1
+BKS-000953,"Saga, Volume 1 (Saga (Collected Editions) #1)",CAT-0009,1,28.48,In stock,1
+BKS-000954,"Rhythm, Chord & Malykhin",CAT-0016,2,28.34,In stock,1
+BKS-000955,"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",CAT-0009,5,46.96,In stock,1
+BKS-000956,Paradise Lost (Paradise #1),CAT-0008,1,24.96,In stock,1
+BKS-000957,"Paper Girls, Vol. 1 (Paper Girls #1-5)",CAT-0009,4,21.71,In stock,1
+BKS-000958,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",CAT-0009,3,29.87,In stock,1
+BKS-000959,Origins (Alphas 0.5),CAT-0024,1,28.99,In stock,1
+BKS-000960,One Second (Seven #7),CAT-0024,2,52.94,In stock,1
+BKS-000961,On the Road (Duluoz Legend),CAT-0008,3,32.36,In stock,1
+BKS-000962,Old Records Never Die: One Man's Quest for His Vinyl and His Past,CAT-0010,2,55.66,In stock,1
+BKS-000963,Off Sides (Off #1),CAT-0022,5,39.45,In stock,1
+BKS-000964,Of Mice and Men,CAT-0045,2,47.11,In stock,1
+BKS-000965,Myriad (Prentor #1),CAT-0024,4,58.75,In stock,1
+BKS-000966,My Perfect Mistake (Over the Top #1),CAT-0016,2,38.92,In stock,1
+BKS-000967,"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",CAT-0009,4,39.39,In stock,1
+BKS-000968,Meditations,CAT-0021,2,25.89,In stock,1
+BKS-000969,Matilda,CAT-0017,1,28.34,In stock,1
+BKS-000970,Lost Among the Living,CAT-0002,4,27.7,In stock,1
+BKS-000971,Lord of the Flies,CAT-0025,3,24.89,In stock,1
+BKS-000972,Listen to Me (Fusion #1),CAT-0016,3,58.99,In stock,1
+BKS-000973,Kitchens of the Great Midwest,CAT-0003,5,57.2,In stock,1
+BKS-000974,Jane Eyre,CAT-0008,5,38.43,In stock,1
+BKS-000975,Imperfect Harmony,CAT-0016,4,34.74,In stock,1
+BKS-000976,Icing (Aces Hockey #2),CAT-0047,4,40.44,In stock,1
+BKS-000977,"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",CAT-0009,3,45.24,In stock,1
+BKS-000978,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),CAT-0011,4,34.96,In stock,1
+BKS-000979,"Giant Days, Vol. 1 (Giant Days #1-4)",CAT-0009,4,56.76,In stock,1
+BKS-000980,"Fruits Basket, Vol. 1 (Fruits Basket #1)",CAT-0009,5,40.28,In stock,1
+BKS-000981,Frankenstein,CAT-0008,2,38,In stock,1
+BKS-000982,Forever Rockers (The Rocker #12),CAT-0010,3,28.8,In stock,1
+BKS-000983,Fighting Fate (Fighting #6),CAT-0016,3,39.24,In stock,1
+BKS-000984,Emma,CAT-0045,2,32.93,In stock,1
+BKS-000985,"Eat, Pray, Love",CAT-0018,3,51.32,In stock,1
+BKS-000986,Deep Under (Walker Security #1),CAT-0016,5,47.09,In stock,1
+BKS-000987,Choosing Our Religion: The Spiritual Lives of America's Nones,CAT-0030,4,28.42,In stock,1
+BKS-000988,Charlie and the Chocolate Factory (Charlie Bucket #1),CAT-0017,3,22.85,In stock,1
+BKS-000989,Charity's Cross (Charles Towne Belles #4),CAT-0016,1,41.24,In stock,1
+BKS-000990,Bright Lines,CAT-0003,5,39.07,In stock,1
+BKS-000991,Bridget Jones's Diary (Bridget Jones #1),CAT-0036,1,29.82,In stock,1
+BKS-000992,Bounty (Colorado Mountain #7),CAT-0016,4,37.26,In stock,1
+BKS-000993,Blood Defense (Samantha Brinkman #1),CAT-0004,3,20.3,In stock,1
+BKS-000994,"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",CAT-0009,5,34.65,In stock,1
+BKS-000995,Beyond Good and Evil,CAT-0021,1,43.38,In stock,1
+BKS-000996,Alice in Wonderland (Alice's Adventures in Wonderland #1),CAT-0045,1,55.53,In stock,1
+BKS-000997,"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",CAT-0009,4,57.06,In stock,1
+BKS-000998,A Spy's Devotion (The Regency Spies of London #1),CAT-0002,5,16.97,In stock,1
+BKS-000999,1st to Die (Women's Murder Club #1),CAT-0004,1,53.98,In stock,1
+BKS-001000,"1,000 Places to See Before You Die",CAT-0013,5,26.08,In stock,1
