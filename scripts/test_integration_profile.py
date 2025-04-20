@@ -1,4 +1,4 @@
-from integration_ut import create_user_with_profile
+from scripts.integration_profile_location import create_user_with_profile
 
 print("\nTesting create_user_with_profile")
 

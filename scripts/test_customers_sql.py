@@ -6,7 +6,7 @@ from crud_customers import (
     delete_customer
 )
 
-print("\n🧪 Testing CRUD - SQL Customers")
+print("\n Testing CRUD - SQL Customers")
 
 # Insert
 insert_customer((9999, "Test User", "test@example.com"))

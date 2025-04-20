@@ -1,14 +1,15 @@
 from pymongo import MongoClient, GEOSPHERE
 from dotenv import load_dotenv
 import os
+print("✅ crud_customer_profiles.py loaded")
+print("Available functions in this module:")
+print(dir())
 
 load_dotenv()
 client = MongoClient(os.getenv("MONGO_URI"))
 db = client["hybrid_bookstore"]
 profiles = db["customer_profiles"]
 
-# Ensure 2dsphere index for geolocation queries
-profiles.create_index([("coordinates", GEOSPHERE)])
 
 def add_profile(profile_data):
     return profiles.insert_one(profile_data)

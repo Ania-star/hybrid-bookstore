@@ -19,14 +19,14 @@ CREATE TABLE IF NOT EXISTS books (
 
 -- Table: customers
 CREATE TABLE IF NOT EXISTS customers (
-    user_id TEXT PRIMARY KEY,
+    user_id INTEGER PRIMARY KEY AUTOINCREMENT,
     name TEXT NOT NULL,
     email TEXT NOT NULL
 );
 
 -- Table: orders
 CREATE TABLE IF NOT EXISTS orders (
-    order_id TEXT PRIMARY KEY,
+    order_id INTEGER PRIMARY KEY AUTOINCREMENT,
     user_id TEXT NOT NULL,
     order_date TEXT NOT NULL,
     total_amount REAL NOT NULL,

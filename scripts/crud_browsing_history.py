@@ -7,8 +7,6 @@ client = MongoClient(os.getenv("MONGO_URI"))
 db = client["hybrid_bookstore"]
 history = db["browsing_history"]
 
-# Index for performance
-history.create_index("user_id")
 
 def add_history_entry(entry):
     return history.insert_one(entry)
