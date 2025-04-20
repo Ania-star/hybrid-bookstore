@@ -1,7 +1,7 @@
 from pymongo import MongoClient, GEOSPHERE
 from dotenv import load_dotenv
 import os
-print("✅ crud_customer_profiles.py loaded")
+print("crud_customer_profiles.py loaded")
 print("Available functions in this module:")
 print(dir())
 
@@ -16,6 +16,9 @@ def add_profile(profile_data):
 
 def get_profile_by_user(user_id):
     return profiles.find_one({"user_id": user_id})
+
+def get_all_states():
+    return profiles.distinct("address.state")
 
 def update_profile_rating(user_id, new_avg_rating):
     return profiles.update_one(

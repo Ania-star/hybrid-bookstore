@@ -26,6 +26,7 @@ from scripts.integration_reviews import get_review_stats
 from scripts.integration_profile_location import get_all_customer_locations
 from scripts.integration_profile_location import get_rating_customer_locations
 from scripts.integration_profile_location import get_users_near_location
+from scripts.crud_customer_profiles import get_all_states
 
 
 # Step 1: Role
@@ -86,7 +87,7 @@ if page == "Home":
             
 
             # Profile snapshot
-            st.write("📌 ##Your Profile##")
+            st.write("📌 Your Profile")
             st.write(f"**Name:** {profile['name']}")
             st.write(f"**Email:** {profile['email']}")
             st.write(f"**Preferred Categories:** {', '.join(profile['preferred_categories']) or 'None'}")
@@ -99,12 +100,16 @@ if page == "Home":
     # --- ADMIN ---
     elif role == "Admin":
         st.success("You're logged in as an administrator.")
-        st.markdown("Use the sidebar to manage users, view dashboards, or access reports.")
+        
         col1, col2 = st.columns(2)
-
-        col2.metric("📚 Total Books", len(get_all_books()))
+        col1.subheader("CUSTOMER STATS:")
         col1.metric("👥 Total Customers", len(get_all_customers()))
+        col1.metric("🗺️ States Covered", len(get_all_states()))
+        col2.subheader("BOOK STATS:")
+        col2.metric("🗂️ Total Book Categorues", len(get_all_categories()))
+        col2.metric("📚 Total Books", len(get_all_books()))
 
+        st.markdown("Note: Use the sidebar to manage users, view dashboards, or access reports.")
         
 
 # --- BROWSE BOOKS ---
@@ -132,20 +137,28 @@ elif page == "Browse Books":
 
             for book in books:
                 book_id = book[0]
+                viewed_key = f"viewed_{book_id}"
                 book_data = get_book_by_id(book_id)
 
                 if book_data:
                     with st.expander(f"{book_data[1]}", expanded=False):
                         # 🔹 Pull stats if available
                         stats = review_stats.get(book_id, {"count": 0, "avg_rating": "N/A"})
+                        show_details = st.checkbox("Show full details", key=f"details_{book_id}")
+
+                        if show_details and role == "Customer" and not st.session_state.get(viewed_key):
+                            user_id = st.session_state.get("user_id")
+                            if user_id:
+                                log_and_get_book(user_id, book_id)
+                                st.session_state[viewed_key] = True
                         
-                        
-                        st.write(f"**Book ID:** {book_data[0]}")
-                        st.write(f"**Category ID:** {book_data[2]}")
-                        st.write(f"**Rating:** {stats['avg_rating']} ⭐ ({stats['count']} reviews)")
-                        st.write(f"**Price:** ${book_data[4]:.2f}")
-                        st.write(f"**Status:** {book_data[5]}")
-                        st.write(f"**In Stock:** {book_data[6]}")
+                        if show_details:
+                            st.write(f"**Book ID:** {book_data[0]}")
+                            st.write(f"**Category ID:** {book_data[2]}")
+                            st.write(f"**Rating:** {stats['avg_rating']} ⭐ ({stats['count']} reviews)")
+                            st.write(f"**Price:** ${book_data[4]:.2f}")
+                            st.write(f"**Status:** {book_data[5]}")
+                            st.write(f"**In Stock:** {book_data[6]}")
 
 
                         selected = st.checkbox("Add to order", key=f"select_{book_id}")
