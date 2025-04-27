@@ -95,10 +95,14 @@ The system consists of a Streamlit-based frontend connected to a Python integrat
 ## Database Schema Overview
 
 ### Relational Database (SQLite)
-![Hybrid Bookstore System Architecture](images/sqlite.png)
+[View SQL Schema Diagram on dbdiagram.io](https://dbdiagram.io/d/67ffd4ab1ca52373f54439ea)
+
+![Relational Database Schema](images/sqlite_schema.png)
+
 **Figure 2:**  
 *Entity-Relationship (ER) diagram for the relational SQLite database used in the hybrid bookstore system.*  
 The schema captures books, categories, customers, orders, and order details, with proper foreign key relationships.
+
 
 ### NoSQL Database (MongoDB Atlas)
 ![Hybrid Bookstore System Architecture](images/mongo.png)
