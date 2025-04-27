@@ -11,6 +11,7 @@ Built using **Streamlit** for a lightweight, interactive web interface.
 - [Tech Stack](#tech-stack)
 - [Folder Structure](#folder-structure)
 - [System Architecture](#system-architecture)
+- [Database Schema Overview](#database-schema-overview)
 - [Setup Instructions](#setup-instructions)
 - [Environment Setup & Dependencies](#environment-setup--dependencies)
 - [Usage](#usage)
