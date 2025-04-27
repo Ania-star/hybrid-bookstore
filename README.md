@@ -23,13 +23,16 @@ Built using **Streamlit** for a lightweight, interactive web interface.
 ---
 
 ## Features
-- Guest browsing and book ordering without account
-- Customer accounts with profile management, browsing, ordering, and reviewing
-- Dynamic recommendations based on user behavior
-- Admin dashboards with geolocation-based customer insights
-- MongoDB geospatial queries to find nearby customers
-- SQL database for core bookstore management (Books, Customers, Orders)
-- NoSQL database for dynamic user data (Reviews, Browsing History, Recommendations, Profiles)
+- Guest browsing and book ordering without account creation
+- Customer accounts with:
+  - Profile management
+  - Book browsing and ordering
+  - Submitting and viewing reviews
+  - Receiving dynamic personalized recommendations
+- Admin dashboards for monitoring customer activities and geographic distribution
+- SQL database for managing structured data (Books, Customers, Orders)
+- MongoDB Atlas for handling flexible, user-generated data (Reviews, Browsing History, Recommendations, Profiles)
+- Geolocation queries using MongoDB for customer mapping and nearby searches
 
 ---
 
