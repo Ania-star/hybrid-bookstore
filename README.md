@@ -97,7 +97,7 @@ The system consists of a Streamlit-based frontend connected to a Python integrat
 ### Relational Database (SQLite)
 [View SQL Schema Diagram on dbdiagram.io](https://dbdiagram.io/d/67ffd4ab1ca52373f54439ea)
 
-![Relational Database Schema](images/sqlite_schema.png)
+![Relational Database Schema](images/sqlite.png)
 
 **Figure 2:**  
 *Entity-Relationship (ER) diagram for the relational SQLite database used in the hybrid bookstore system.*  
