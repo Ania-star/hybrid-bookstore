@@ -88,6 +88,23 @@ hybrid-bookstore/
 The system consists of a Streamlit-based frontend connected to a Python integration layer, which manages interactions with both a relational database (SQLite) for structured data and a NoSQL database (MongoDB Atlas) for flexible, user-centric data.
 
 ---
+## Database Schema Overview
+
+### Relational Database (SQLite)
+![Hybrid Bookstore System Architecture](images/sqlite.png)
+
+**Figure 2:**  
+*Entity-Relationship (ER) diagram for the relational SQLite database used in the hybrid bookstore system.*  
+The schema captures books, categories, customers, orders, and order details, with proper foreign key relationships.
+
+### NoSQL Database (MongoDB Atlas)
+![Hybrid Bookstore System Architecture](images/mongo.png)
+
+**Figure 3:**  
+*Document model for MongoDB collections in the hybrid bookstore system.*  
+Each collection references core entities using shared identifiers (`user_id`, `book_id`) linked to SQL data.  
+Arrows indicate logical relationships that support recommendations, user behavior tracking, and personalization features.
+
 
 ## Setup Instructions
 
