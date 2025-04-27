@@ -81,7 +81,7 @@ hybrid-bookstore/
 ---
 ## System Architecture
 
-![Hybrid Bookstore System Architecture](images-system_architecture.png)
+![Hybrid Bookstore System Architecture](images/system_architecture.png)
 
 **Figure 1:**  
 *Hybrid Bookstore System Architecture.*  
