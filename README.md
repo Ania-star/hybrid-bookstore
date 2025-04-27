@@ -10,6 +10,7 @@ Built using **Streamlit** for a lightweight, interactive web interface.
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Folder Structure](#folder-structure)
+- [System Architecture](#system-rchitecture)
 - [Setup Instructions](#setup-instructions)
 - [Environment Setup & Dependencies](#environment-setup--dependencies)
 - [Usage](#usage)
