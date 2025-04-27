@@ -78,3 +78,9 @@ def get_review_stats():
         r["_id"]: {"count": r["count"], "avg_rating": round(r["avg_rating"], 2)}
         for r in results
     }
+
+def get_reviews_by_user(user_id):
+    """
+    Fetch all reviews written by a specific user.
+    """
+    return list(reviews_col.find({"user_id": user_id}))

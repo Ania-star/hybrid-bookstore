@@ -51,7 +51,7 @@ if role == "Customer":
 if role == "Admin":
     page_options = ["Home", "Customer Management", "Dashboards", "Reports"]
 elif role == "Customer":
-    page_options = ["Home", "Browse Books", "Place Order", "My Orders", "Recommendations", "Submit Review"]
+    page_options = ["Home", "Browse Books", "Place Order", "My Orders", "Recommendations", "Submit Review", "My Reviews"]
 else:  # Guest
     page_options = ["Home", "Browse Books", "Place Order"]
 
@@ -194,7 +194,7 @@ elif page == "My Orders" and role == "Customer":
                         title = book["title"] if book else book_id
                         category = book["category_name"] if book else "Unknown"
                         st.markdown(f"- **{title}** ({category}) — {qty} × ${unit_price:.2f}")
-
+# --- Place Order ---
 elif page == "Place Order":
     st.subheader("Place an Order")
 
@@ -367,10 +367,38 @@ elif page == "Submit Review" and role == "Customer":
         else:
             st.error("Something went wrong. Please try again.")
 
+# --- MY REVIEWS PAGE ---
+elif page == "My Reviews" and role == "Customer":
+    st.subheader("📝 Your Reviews")
+
+    user_id = st.session_state.get("user_id")
+    if not user_id:
+        st.warning("Please select a user first.")
+        st.stop()
+
+    from scripts.integration_reviews import get_reviews_by_user
+    from scripts.integration_books import get_book_with_category
+
+    reviews = get_reviews_by_user(user_id)
+
+    if not reviews:
+        st.info("You haven't written any reviews yet!")
+    else:
+        for review in reviews:
+            book = get_book_with_category(review["book_id"])
+            book_title = book["title"] if book else f"Book ID {review['book_id']}"
+
+            with st.expander(f"📖 {book_title}"):
+                st.write(f"**Rating:** {review['rating']} ⭐")
+                st.write(f"**Review Text:** {review['review_text']}")
+                st.write(f"**Date:** {review['timestamp'][:10]}")  # show only YYYY-MM-DD
 
 # --- Dashboards ---
 elif page == "Dashboards" and role == "Admin":
-    st.subheader("📍 Customer Maps")
+    st.subheader("Customer Maps")
+    hq_coords = {
+        "Headquarters": [-86.148003, 39.791000],  # [longitude, latitude]
+    }
 
     # Step 1: Select Map Type
     map_option = st.selectbox("Choose map view:", [
@@ -382,13 +410,12 @@ elif page == "Dashboards" and role == "Admin":
 
     # Step 2: Additional filters for Nearby Customers
     if map_option == "Nearby Customers":
-        city_coords = {
-            "New York City": [-74.0060, 40.7128],
-            "Chicago": [-87.6298, 41.8781],
-            "San Francisco": [-122.4194, 37.7749]
-        }
-        selected_city = st.selectbox("Select center city", list(city_coords.keys()))
-        max_km = st.slider("Radius (km)", 10, 1000, 100)
+        selected_location = "Headquarters"
+        coords = hq_coords[selected_location]
+
+        st.markdown(f"**Reference Location:** {selected_location} ({coords[1]:.6f}, {coords[0]:.6f})")
+
+        max_km = st.slider("Select search radius (in km):", min_value=10, max_value=1000, value=100)
 
     # Step 3: Load data based on selection
     if map_option == "All Customers":
@@ -398,20 +425,30 @@ elif page == "Dashboards" and role == "Admin":
     elif map_option == "Low-Rated Customers (< 4.0)":
         data = get_rating_customer_locations(max_rating=4.0)
     elif map_option == "Nearby Customers":
-        center = city_coords[selected_city]
+        center = coords
         data = get_users_near_location(center, max_km)
     else:
         data = []
 
-    # Step 4: Render map
+    # 🛑 Step 4 must stay inside the "elif page == Dashboards" block!
     if not data:
         st.warning("No location data found for the selected view.")
     else:
         map_center = [data[0]["lat"], data[0]["lon"]] if data else [39.8283, -98.5795]
         m = folium.Map(location=map_center, zoom_start=3)
 
+        # Add HQ pin
+        if map_option == "Nearby Customers":
+            folium.Marker(
+                location=[coords[1], coords[0]],
+                popup="📍 Headquarters",
+                icon=folium.Icon(color="red", icon="home")
+            ).add_to(m)
+
+        # Add customer pins
         for entry in data:
             popup = f"{entry['name']} ({entry['email']})"
             folium.Marker([entry["lat"], entry["lon"]], popup=popup).add_to(m)
 
+        # Show map
         st_folium(m, width=700, height=500)
