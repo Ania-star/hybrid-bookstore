@@ -9,6 +9,7 @@ Built using **Streamlit** for a lightweight, interactive web interface.
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Technologies & Tools](#technologies-&-tools)
 - [Folder Structure](#folder-structure)
 - [System Architecture](#system-architecture)
 - [Database Schema Overview](#database-schema-overview)
@@ -43,6 +44,24 @@ Built using **Streamlit** for a lightweight, interactive web interface.
 - **Backend Scripting:** Python (Pandas, PyMongo, SQLite3, etc.)
 - **Geolocation:** Google Maps API, MongoDB 2dsphere index
 - **Visualization:** Folium (maps)
+
+---
+
+## Technologies & Tools
+
+This project utilizes a combination of relational and non-relational databases, a lightweight web-based interface, and supporting Python libraries to build a hybrid bookstore system.  
+Below is a summary of the tools and technologies used, along with their specific roles in the system:
+
+| Component           | Tool/Technology                | Purpose |
+|:--------------------|:--------------------------------|:--------|
+| Relational Database  | SQLite                         | Lightweight SQL database to store structured data (books, customers, orders) |
+| NoSQL Database       | MongoDB Atlas                  | Flexible, document-based database to store reviews, browsing history, recommendations, and customer geolocation |
+| Frontend             | Streamlit                      | Python-based UI to display books, manage orders and reviews, and run geo queries |
+| Scripting & Data Handling | Python (Pandas, JSON)     | Data manipulation and integration between SQL and MongoDB |
+| Geospatial Tools     | MongoDB GeoJSON & 2dsphere index | Enable customer-based geolocation queries |
+| Data Sources         | Kaggle, Synthetic JSON         | Populate both databases with real and synthetic data |
+| Development Environment | VS Code                     | Code, test, and iterate on backend scripts and Streamlit UI |
+| Testing Tools        | SQLite CLI, MongoDB Compass    | Test queries and inspect data manually during development |
 
 ---
 
