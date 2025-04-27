@@ -1,4 +1,4 @@
-# 📚 Hybrid Bookstore Database System
+# Hybrid Bookstore Database System
 
 A hybrid bookstore system that combines the strengths of relational (SQL) and non-relational (MongoDB) databases.  
 Users can browse, order, and review books — while admins monitor customer locations and activities through dashboards.  
@@ -11,7 +11,9 @@ Built using **Streamlit** for a lightweight, interactive web interface.
 - [Tech Stack](#tech-stack)
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
+- [Environment Setup & Dependencies](#environment-setup--dependencies)
 - [Usage](#usage)
+- [Hybrid Bookstore User Actions Overview](#hybrid-bookstore-user-actions-overview)
 - [Acknowledgments](#acknowledgments)
 - [Authors](#authors)
 - [License](#license)
@@ -43,39 +45,46 @@ Built using **Streamlit** for a lightweight, interactive web interface.
 ```bash
 hybrid-bookstore/
 |
-|├── app/                         # Streamlit frontend application
-|   └── main.py                  # Main user interface and page logic
+├── app/                         # Streamlit frontend application
+│   └── main.py                  # Main user interface and page logic
 |
-|├── db/                          # Databases and supporting setup
-|   |
-|   ├── mongo/
-|   |   └── indexes.py            # MongoDB index creation script
-|   |
-|   └── sql/
-|       ├── hybrid_bookstore.db   # SQLite database file (generated)
-|       └── schema.sql            # SQL schema for tables
+├── db/                          # Databases and supporting setup
+│   ├── mongo/
+│   │   └── indexes.py            # MongoDB index creation script
+│   └── sql/
+│       ├── hybrid_bookstore.db   # SQLite database file (generated)
+│       └── schema.sql            # SQL schema for tables
 |
-|├── scripts/                     # Backend logic
-|   ├── CRUD operations           # (e.g., books, orders, customers)
-|   ├── Integration scripts       # Link SQL and MongoDB data
-|   └── Data loaders              # Scripts to load CSV/JSON into databases
+├── scripts/                     # Backend logic
+│   ├── CRUD operations           # (e.g., books, orders, customers)
+│   ├── Integration scripts       # Link SQL and MongoDB data
+│   └── Data loaders              # Scripts to load CSV/JSON into databases
 |
-|├── data/                         # Initial datasets
-|   ├── books.csv
-|   ├── categories.csv
-|   ├── customers.csv
-|   ├── orders.csv
-|   ├── order_details.csv
-|   ├── browsing_history.json
-|   ├── customer_profiles.json
-|   ├── recommendations.json
-|   └── reviews.json
+├── data/                         # Initial datasets
+│   ├── books.csv
+│   ├── categories.csv
+│   ├── customers.csv
+│   ├── orders.csv
+│   ├── order_details.csv
+│   ├── browsing_history.json
+│   ├── customer_profiles.json
+│   ├── recommendations.json
+│   └── reviews.json
 |
-|├── .env                          # Environment variables (MongoDB URI, API keys) - NOT versioned
-|├── .gitignore                    # Files/folders to ignore in version control
-|├── requirements.txt              # Python dependency list
+├── .env                          # Environment variables (MongoDB URI, API keys) - NOT versioned
+├── .gitignore                    # Files/folders to ignore in version control
+├── requirements.txt              # Python dependency list
 └── README.md                     # Project documentation (this file)
 ```
+
+---
+## System Architecture
+
+![Hybrid Bookstore System Architecture](path-to-your-image.png)
+
+**Figure 1:**  
+*Hybrid Bookstore System Architecture.*  
+The system consists of a Streamlit-based frontend connected to a Python integration layer, which manages interactions with both a relational database (SQLite) for structured data and a NoSQL database (MongoDB Atlas) for flexible, user-centric data.
 
 ---
 
@@ -124,11 +133,73 @@ Access the app at `http://localhost:8501/`
 
 ---
 
+## Environment Setup & Dependencies
+
+This project was developed using a Python virtual environment to isolate dependencies and ensure consistent behavior across systems.  
+All required packages are listed in the `requirements.txt` file.
+
+### Key Python Packages
+
+| Package        | Purpose                                        |
+|:---------------|:-----------------------------------------------|
+| `streamlit`     | Frontend UI for user interaction               |
+| `pymongo`       | Communication with MongoDB Atlas              |
+| `pandas`        | Data manipulation and table display           |
+| `folium`        | Interactive maps for geolocation dashboards   |
+| `requests`      | API communication (e.g., Google Maps API)     |
+| `python-dotenv` | Load environment variables from `.env` files  |
+| `watchdog`, `gitpython` | Internal dependencies for Streamlit operation |
+
+### Sample `requirements.txt`
+```bash
+streamlit==1.44.1
+pymongo==4.12.0
+pandas==2.2.2
+folium==0.14.0
+requests==2.32.3
+python-dotenv==1.0.1
+```
+
+> (Full list of dependencies available in the provided `requirements.txt` file.)
+
+### Reproducing the Environment
+
+To install all dependencies in a new environment, simply run:
+```bash
+pip install -r requirements.txt
+```
+
+A `.venv/` folder was used locally for development and is excluded from version control using `.gitignore`.
+
+---
+
 ## Usage
 
 - **Guests:** Browse books and place orders without logging in.
-- **Customers:** View their profile, orders, submit reviews, and get recommendations.
+- **Customers:** View their profile, orders, submit reviews, and get personalized recommendations.
 - **Admins:** Monitor customer activities, view customer maps, and access basic reporting dashboards.
+
+---
+
+## Hybrid Bookstore User Actions Overview
+
+### Actors
+- **Customer**
+- **Guest** (limited interaction)
+- **Admin** (manages customers, books, dashboards, monitors system usage)
+
+### Detailed User Actions
+
+| Action                     | Databases Used                  | Query Type                         | Who Interacts       | Description |
+|:----------------------------|:---------------------------------|:-----------------------------------|:---------------------|:------------|
+| **Browse Books**            | SQL (SQLite)                    | SELECT                             | Customer, Guest      | Selects a book category and views available books. "Add to Order" saves selected books temporarily in session state. |
+| **Place Order**             | SQL (SQLite)                    | INSERT                             | Customer, Guest      | Guests enter shipping details during checkout (auto-registering as customers). Existing customers place orders using saved profiles. Orders and order details recorded in SQL. |
+| **Submit Review**           | MongoDB + SQL (SQLite)           | INSERT (MongoDB), UPDATE (SQL)     | Customer             | Submits a review to MongoDB. Book's average rating recalculated and updated in SQL. |
+| **View Recommendations**    | MongoDB                         | Aggregation Pipeline               | Customer             | Views personalized book recommendations based on order and review history. |
+| **View Past Orders**        | SQL (SQLite)                    | SELECT                             | Customer             | Views previous orders and order details stored in SQL. |
+| **View Own Reviews**        | MongoDB                         | Simple Find Query                  | Customer             | Views their submitted reviews from MongoDB. |
+| **View Customer and Book Stats** | SQL (SQLite)                | SELECT                             | Admin                | Views statistics: number of customers, states covered, categories, books. |
+| **View Dashboards (Maps)**  | MongoDB                         | Geospatial Queries (2dsphere)       | Admin                | Visualizes customer locations on a map, filters by ratings, finds nearby customers. |
 
 ---
 
