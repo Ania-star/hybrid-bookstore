@@ -66,39 +66,59 @@ Below is a summary of the tools and technologies used, along with their specific
 ---
 
 ## Folder Structure
+
 ```bash
 hybrid-bookstore/
-|
-├── app/                         # Streamlit frontend application
-│   └── main.py                  # Main user interface and page logic
-|
-├── db/                          # Databases and supporting setup
+│
+├── app/
+│   └── main.py                       # Streamlit application frontend with role-based navigation
+│
+├── db/
 │   ├── mongo/
-│   │   └── indexes.py            # MongoDB index creation script
+│   │   └── indexes.py                # MongoDB index creation script for collections
 │   └── sql/
-│       ├── hybrid_bookstore.db   # SQLite database file (generated)
-│       └── schema.sql            # SQL schema for tables
-|
-├── scripts/                     # Backend logic
-│   ├── CRUD operations           # (e.g., books, orders, customers)
-│   ├── Integration scripts       # Link SQL and MongoDB data
-│   └── Data loaders              # Scripts to load CSV/JSON into databases
-|
-├── data/                         # Initial datasets
-│   ├── books.csv
-│   ├── categories.csv
-│   ├── customers.csv
-│   ├── orders.csv
-│   ├── order_details.csv
-│   ├── browsing_history.json
-│   ├── customer_profiles.json
-│   ├── recommendations.json
-│   └── reviews.json
-|
-├── .env                          # Environment variables (MongoDB URI, API keys) - NOT versioned
-├── .gitignore                    # Files/folders to ignore in version control
-├── requirements.txt              # Python dependency list
-└── README.md                     # Project documentation (this file)
+│       ├── hybrid_bookstore.db       # SQLite database file (generated)
+│       └── schema.sql                # SQL schema defining tables and foreign key relationships
+│
+├── scripts/
+│   ├── crud_books.py                 # CRUD operations for books in SQL
+│   ├── crud_categories.py            # CRUD operations for categories in SQL
+│   ├── crud_customers.py             # CRUD operations for customers in SQL
+│   ├── crud_orders.py                # CRUD operations for orders and order details in SQL
+│   ├── crud_reviews.py               # CRUD operations for reviews in MongoDB
+│   ├── crud_recommendations.py       # CRUD operations for recommendations in MongoDB
+│   ├── crud_browsing_history.py      # CRUD operations for browsing history in MongoDB
+│   ├── crud_customer_profiles.py     # CRUD operations for customer profiles in MongoDB
+│   ├── integration_orders.py         # Place and manage orders, update inventory
+│   ├── integration_books.py          # Fetch book and category details
+│   ├── integration_browsing.py       # Log browsing activity in MongoDB
+│   ├── integration_reviews.py        # Submit and manage book reviews and update average ratings
+│   ├── integration_profile_location.py # Manage geolocation profiles and nearby customer queries
+│   ├── integration_maps.py           # Aggregate top reviewers and customer map generation
+│   ├── load_sql_tables.py            # Load initial CSV data into SQLite
+│   ├── load_to_mongodb_atlas.py      # Load initial JSON data into MongoDB
+│   ├── check_tables.py               # Script to list all tables inside SQLite database
+│
+├── data/
+│   ├── books.csv                     # Book dataset
+│   ├── categories.csv                # Book categories dataset
+│   ├── customers.csv                 # Customer dataset
+│   ├── orders.csv                    # Orders dataset
+│   ├── order_details.csv             # Order details dataset
+│   ├── browsing_history.json         # Browsing history JSON for MongoDB
+│   ├── customer_profiles.json        # Customer profiles JSON for MongoDB
+│   ├── recommendations.json          # Recommendations JSON for MongoDB
+│   └── reviews.json                  # Reviews JSON for MongoDB
+│
+├── images/
+│   ├── architecture.png              # System architecture diagram
+│   ├── sqlite_schema.png              # Relational database ER diagram
+│   ├── mongo.png                     # MongoDB document model diagram
+│
+├── .env                               # Environment variables for MongoDB URI and Google API key (not versioned)
+├── .gitignore                         # Files/folders ignored in Git
+├── requirements.txt                   # Python dependencies
+└── README.md                          # Project documentation (this file)
 ```
 
 ---
