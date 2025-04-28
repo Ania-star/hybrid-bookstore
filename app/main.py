@@ -58,7 +58,7 @@ if not st.session_state.logged_in:
         if username_input == USERNAME and password_input == PASSWORD:
             st.success("Login successful. Welcome!")
             st.session_state.logged_in = True
-            st.st.rerun()
+            st.rerun()
         else:
             st.error("Invalid credentials. Please try again.")
 
