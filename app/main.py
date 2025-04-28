@@ -48,7 +48,7 @@ if "logged_in" not in st.session_state:
 
 # Show login form if not logged in
 if not st.session_state.logged_in:
-    st.title("Secure Login Required")
+    st.title("Login Required")
 
     username_input = st.text_input("Username")
     password_input = st.text_input("Password", type="password")
@@ -58,7 +58,7 @@ if not st.session_state.logged_in:
         if username_input == USERNAME and password_input == PASSWORD:
             st.success("Login successful. Welcome!")
             st.session_state.logged_in = True
-            st.experimental_rerun()
+            st.st.rerun()
         else:
             st.error("Invalid credentials. Please try again.")
 
