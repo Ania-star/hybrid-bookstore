@@ -29,6 +29,45 @@ from scripts.integration_profile_location import get_users_near_location
 from scripts.crud_customer_profiles import get_all_states
 
 
+# --- Secure Login for Local and Deployment ---
+
+# Try loading .env if running locally
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except Exception as e:
+    pass  # If dotenv not installed, ignore
+
+# Load username and password
+USERNAME = st.secrets.get("USERNAME", os.getenv("USERNAME"))
+PASSWORD = st.secrets.get("PASSWORD", os.getenv("PASSWORD"))
+
+# Initialize session state
+if "logged_in" not in st.session_state:
+    st.session_state.logged_in = False
+
+# Show login form if not logged in
+if not st.session_state.logged_in:
+    st.title("Secure Login Required")
+
+    username_input = st.text_input("Username")
+    password_input = st.text_input("Password", type="password")
+    login_button = st.button("Login")
+
+    if login_button:
+        if username_input == USERNAME and password_input == PASSWORD:
+            st.success("Login successful. Welcome!")
+            st.session_state.logged_in = True
+            st.experimental_rerun()
+        else:
+            st.error("Invalid credentials. Please try again.")
+
+    st.stop()  # Stop the app until logged in
+
+else:
+    st.sidebar.success(f"Logged in as: {USERNAME}")
+
+
 # Step 1: Role
 role = st.sidebar.selectbox("Login As:", ["Guest", "Customer", "Admin"])
 st.session_state["user_type"] = role
