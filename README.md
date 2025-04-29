@@ -1,8 +1,8 @@
-# Hybrid Bookstore Database System
+# Hybrid E-Commerce Database System
 
-A hybrid bookstore system that combines the strengths of relational (SQL) and non-relational (MongoDB) databases.  
-Users can browse, order, and review books — while admins monitor customer locations and activities through dashboards.  
-Built using **Streamlit** for a lightweight, interactive web interface.
+A hybrid e-commerce system that combines the strengths of relational (SQL) and non-relational (MongoDB) databases.
+The current implementation uses a bookstore as an example, where users can browse books, place orders, and leave reviews — while admins monitor customer locations, browsing behavior through dashboards.
+Built using Streamlit for a lightweight, interactive web interface.
 
 ---
 
