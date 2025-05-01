@@ -26,7 +26,7 @@ Built using Streamlit for a lightweight, interactive web interface.
 ## Features
 - Guest browsing and book ordering without account creation
 - Customer accounts with:
-  - Profile management
+  - Profile
   - Book browsing and ordering
   - Submitting and viewing reviews
   - Receiving dynamic personalized recommendations
