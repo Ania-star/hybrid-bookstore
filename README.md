@@ -255,7 +255,7 @@ A `.venv/` folder was used locally for development and is excluded from version 
 | **Place Order** | SQL (SQLite) | INSERT | Customer, Guest | Guests enter shipping details during checkout (auto-registering as customers). Existing customers place orders using saved profiles. Orders and order details recorded in SQL. |
 | **View Profile** | MongoDB + SQL (SQLite) | Simple Find Query | Customer | Displays user's profile information (name, email, address, preferred categories, average rating) on the Home page. |
 | **Submit Review** | MongoDB + SQL (SQLite) | INSERT (MongoDB), UPDATE (SQL) | Customer | Submits a review for a previously purchased book that has not yet been reviewed. The review is inserted into MongoDB, and the book's average rating is recalculated and updated in SQL. |
-| **View Recommendations** | MongoDB | Aggregation Pipeline | Customer | Views personalized book recommendations generated based on order and review history. |
+| **Get Review Statistics** | MongoDB | Aggregation Pipeline | System / Backend | Calculates how many reviews each book has and the average rating per book. |
 | **View Past Orders** | SQL (SQLite) | SELECT | Customer | Views previous orders and order details stored in SQL. |
 | **View Own Reviews** | MongoDB | Simple Find Query | Customer | Views their submitted reviews from MongoDB. |
 | **View Customer and Book Stats** | SQL (SQLite) | SELECT | Admin | Views statistics: number of customers, states covered, categories, books. |
